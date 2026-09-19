@@ -15,7 +15,8 @@ ALL_TAGS = sorted(set(tag for h in HOTELS for tag in h["activity_tags"]))
 def area_slug(a):
     return a.lower().replace(" ", "-").replace("(", "").replace(")", "")
 
-HEAD = lambda title, desc, canonical, extra_schema="" : f"""<!DOCTYPE html>
+def HEAD(title, desc, canonical, extra_schema="", prefix="."):
+    return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -23,24 +24,26 @@ HEAD = lambda title, desc, canonical, extra_schema="" : f"""<!DOCTYPE html>
 <title>{title}</title>
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="{prefix}/assets/style.css">
 {extra_schema}
 </head>
 """
 
-NAV = f"""
+def NAV(prefix="."):
+    return f"""
 <header class="site-header">
-  <a href="/index.html" class="logo">{SITE_NAME}</a>
+  <a href="{prefix}/index.html" class="logo">{SITE_NAME}</a>
   <nav>
-    <a href="/index.html">Search</a>
-    <a href="/articles/kids-club-hotel-closures-ski-season.html">Seasonal closures guide</a>
-    <a href="/about.html">About</a>
-    <a href="/partner.html">Partner with Us</a>
+    <a href="{prefix}/index.html">Search</a>
+    <a href="{prefix}/articles/kids-club-hotel-closures-ski-season.html">Seasonal closures guide</a>
+    <a href="{prefix}/about.html">About</a>
+    <a href="{prefix}/partner.html">Partner with Us</a>
   </nav>
 </header>
 """
 
-FOOTER = f"""
+def FOOTER():
+    return f"""
 <footer class="site-footer">
   <p>{SITE_NAME} is an independent directory of family hotels with verified kids' clubs across Europe. We link to hotels' own booking pages where possible. Data on kids-club hours, staff languages, and seasonal closures is confirmed hotel-by-hotel as we build partnerships — fields marked "not yet confirmed" reflect that in-progress state, not a guess.</p>
   <p>&copy; {date.today().year} {SITE_NAME}</p>
@@ -51,8 +54,9 @@ os.makedirs("hotels", exist_ok=True)
 os.makedirs("regions", exist_ok=True)
 os.makedirs("articles", exist_ok=True)
 
-# ---------- Individual hotel pages ----------
+# ---------- Individual hotel pages (prefix="..") ----------
 for h in HOTELS:
+    prefix = ".."
     url = f"{BASE_URL}/hotels/{h['slug']}.html"
     title = f"{h['name']} — Family Hotel with Kids' Club in {h['subregion']} | {SITE_NAME}"
     desc = f"{h['name']} in {h['subregion']}, {h['country']}: kids' club details, nearest airport ({h['airport']['primary']}), activities, and seasonal closure info."
@@ -76,10 +80,10 @@ for h in HOTELS:
              "acceptedAnswer": {"@type": "Answer", "text": h["closure_note"]}},
         ]
     }
-    html = HEAD(title, desc, url, f'<script type="application/ld+json">{json.dumps(schema)}</script>\n<script type="application/ld+json">{json.dumps(faq)}</script>') + f"""<body>
-{NAV}
+    html = HEAD(title, desc, url, f'<script type="application/ld+json">{json.dumps(schema)}</script>\n<script type="application/ld+json">{json.dumps(faq)}</script>', prefix=prefix) + f"""<body>
+{NAV(prefix)}
 <main class="hotel-profile">
-  <p class="breadcrumb"><a href="/index.html">Search</a> &rsaquo; <a href="/regions/{area_slug(h['area'])}.html">{h['area']}</a> &rsaquo; {h['name']}</p>
+  <p class="breadcrumb"><a href="{prefix}/index.html">Search</a> &rsaquo; <a href="{prefix}/regions/{area_slug(h['area'])}.html">{h['area']}</a> &rsaquo; {h['name']}</p>
   <h1>{h['name']}</h1>
   <p class="meta">{h['subregion']}, {h['country']} &middot; {h['brand']} &middot; Tier: {h['quality_tier']}</p>
 
@@ -97,7 +101,7 @@ for h in HOTELS:
       <tr><th>Hours</th><td>{h['kids_club']['hours']}</td></tr>
       <tr><th>Staff languages</th><td>{h['kids_club']['staff_languages']}</td></tr>
     </table>
-    <p class="note">Status: {h['kids_club']['status']}. {SITE_NAME} verifies these fields directly with each hotel — see our <a href="/articles/kids-club-hotel-closures-ski-season.html">data verification notes</a>.</p>
+    <p class="note">Status: {h['kids_club']['status']}. {SITE_NAME} verifies these fields directly with each hotel — see our <a href="{prefix}/articles/kids-club-hotel-closures-ski-season.html">data verification notes</a>.</p>
   </section>
 
   <section>
@@ -120,38 +124,40 @@ for h in HOTELS:
     <p class="note">Booking route: {h['booking']['type']}.</p>
   </section>
 </main>
-{FOOTER}
+{FOOTER()}
 </body></html>"""
     with open(f"hotels/{h['slug']}.html", "w") as f:
         f.write(html)
 
-# ---------- Region hub pages ----------
+# ---------- Region hub pages (prefix="..") ----------
 for area in AREAS:
+    prefix = ".."
     hotels_in_area = [h for h in HOTELS if h["area"] == area]
     url = f"{BASE_URL}/regions/{area_slug(area)}.html"
     title = f"Family Hotels with Kids' Clubs in {area} | {SITE_NAME}"
     desc = f"Browse {len(hotels_in_area)} verified family hotels with kids' clubs in {area}, with nearest airport, transport, and seasonal closure info for each."
     cards = "".join(f"""
       <article class="card">
-        <h3><a href="/hotels/{h['slug']}.html">{h['name']}</a></h3>
+        <h3><a href="{prefix}/hotels/{h['slug']}.html">{h['name']}</a></h3>
         <p>{h['subregion']}, {h['country']}</p>
         <ul class="tag-list">{''.join(f'<li class="tag">{t}</li>' for t in h['activity_tags'])}</ul>
         <p class="note">Nearest airport: {h['airport']['primary']}</p>
       </article>""" for h in hotels_in_area)
-    html = HEAD(title, desc, url) + f"""<body>
-{NAV}
+    html = HEAD(title, desc, url, prefix=prefix) + f"""<body>
+{NAV(prefix)}
 <main>
-  <p class="breadcrumb"><a href="/index.html">Search</a> &rsaquo; {area}</p>
+  <p class="breadcrumb"><a href="{prefix}/index.html">Search</a> &rsaquo; {area}</p>
   <h1>Family hotels with kids' clubs in {area}</h1>
-  <p>{area} is home to {len(hotels_in_area)} hotels in our directory that belong to verified family-hotel associations (Kinderhotels Europa / Familienhotels Südtirol) and offer supervised kids' clubs. Use the filters on the <a href="/index.html">search page</a> to narrow by activity or nearest airport.</p>
+  <p>{area} is home to {len(hotels_in_area)} hotels in our directory that belong to verified family-hotel associations (Kinderhotels Europa / Familienhotels Südtirol / Center Parcs Europe) and offer supervised kids' clubs. Use the filters on the <a href="{prefix}/index.html">search page</a> to narrow by activity or nearest airport.</p>
   <div class="card-grid">{cards}</div>
 </main>
-{FOOTER}
+{FOOTER()}
 </body></html>"""
     with open(f"regions/{area_slug(area)}.html", "w") as f:
         f.write(html)
 
-# ---------- Homepage with search UI ----------
+# ---------- Homepage with search UI (prefix=".") ----------
+prefix = "."
 hotel_json = json.dumps(HOTELS)
 areas_options = "".join(f'<option value="{a}">{a}</option>' for a in AREAS)
 countries_options = "".join(f'<option value="{c}">{c}</option>' for c in COUNTRIES)
@@ -168,14 +174,15 @@ itemlist_schema = {
 
 index_html = HEAD(
     f"Kids Club Hotels — Find Family Hotels with Real Kids' Clubs in Europe",
-    "Kids Club Hotels is an independent directory of European family hotels with verified kids' clubs. Search by location, nearest airport, English-speaking childcare, and activities like skiing or climbing.",
+    "Kids Club Hotels is an independent directory of European family hotels with verified kids' clubs. Search by location, nearest airport, English-speaking childcare, and activities like skiing or cycling.",
     f"{BASE_URL}/index.html",
-    f'<script type="application/ld+json">{json.dumps(itemlist_schema)}</script>'
+    f'<script type="application/ld+json">{json.dumps(itemlist_schema)}</script>',
+    prefix=prefix
 ) + f"""<body>
-{NAV}
+{NAV(prefix)}
 <main>
   <h1>Find a family hotel with a real kids' club</h1>
-  <p class="intro">Kids Club Hotels is an independent directory of {len(HOTELS)} European family hotels with verified kids' clubs — searchable by location, nearest airport, activities, and kids'-club language. All listings are from confirmed family-hotel associations (Kinderhotels Europa, Familienhotels Südtirol). Booking links go to the hotel's best available rate.</p>
+  <p class="intro">Kids Club Hotels is an independent directory of {len(HOTELS)} European family hotels and resorts with verified kids' clubs — searchable by location, nearest airport, activities, and kids'-club language. Booking links go directly to each hotel's best available rate.</p>
 
   <form id="filters" class="filters">
     <div class="filter-group">
@@ -206,25 +213,27 @@ index_html = HEAD(
   <p id="result-count" class="note"></p>
   <div id="results" class="card-grid"></div>
 </main>
-{FOOTER}
+{FOOTER()}
 
 <script id="hotel-data" type="application/json">{hotel_json}</script>
-<script src="/assets/search.js"></script>
+<script src="{prefix}/assets/search.js"></script>
 </body></html>"""
 
 with open("index.html", "w") as f:
     f.write(index_html)
 
-# ---------- About page ----------
+# ---------- About page (prefix=".") ----------
+prefix = "."
 about_html = HEAD(
     f"About | {SITE_NAME}",
     "Kids Club Hotels is an independent directory of European family hotels with verified kids' clubs, built for parents who want real, confirmed information rather than marketing copy.",
-    f"{BASE_URL}/about.html"
+    f"{BASE_URL}/about.html",
+    prefix=prefix
 ) + f"""<body>
-{NAV}
+{NAV(prefix)}
 <main class="static-page">
   <h1>About Kids Club Hotels</h1>
-  <p>Kids Club Hotels is an independent directory of European family hotels with verified kids' clubs. It exists for one reason: parents planning a family holiday need real, confirmed information — not marketing copy. Every hotel in this directory belongs to a recognised family-hotel association (Kinderhotels Europa or Familienhotels Südtirol) and offers supervised childcare. We confirm the specifics — hours, age ranges, staff languages — directly with each property.</p>
+  <p>Kids Club Hotels is an independent directory of European family hotels with verified kids' clubs. It exists for one reason: parents planning a family holiday need real, confirmed information — not marketing copy. Every hotel in this directory belongs to a recognised family-hotel association (Kinderhotels Europa, Familienhotels Südtirol, or Center Parcs Europe) and offers supervised childcare. We confirm the specifics — hours, age ranges, staff languages — directly with each property.</p>
 
   <h2>How we verify</h2>
   <p>Kids-club hours, age ranges, and staff languages are confirmed directly with hotel staff, not scraped from booking platforms or taken from brochure copy. Where a detail has not yet been confirmed with the property, we say so explicitly — fields marked "not yet confirmed" reflect that in-progress state, not a gap in our data. We update listings as confirmations come in and as seasonal operations change.</p>
@@ -232,19 +241,21 @@ about_html = HEAD(
   <h2>Contact</h2>
   <p>For hotel listings, corrections, or partnerships: <a href="mailto:hello@kidsclubhotels.com">hello@kidsclubhotels.com</a></p>
 </main>
-{FOOTER}
+{FOOTER()}
 </body></html>"""
 
 with open("about.html", "w") as f:
     f.write(about_html)
 
-# ---------- Partner with Us page ----------
+# ---------- Partner with Us page (prefix=".") ----------
+prefix = "."
 partner_html = HEAD(
     f"Partner with Us | {SITE_NAME}",
     "Hotels with verified kids' clubs: list your property on Kids Club Hotels and earn qualified family bookings through a simple referral fee arrangement.",
-    f"{BASE_URL}/partner.html"
+    f"{BASE_URL}/partner.html",
+    prefix=prefix
 ) + f"""<body>
-{NAV}
+{NAV(prefix)}
 <main class="static-page">
   <h1>Partner with Kids Club Hotels</h1>
   <p>We list hotels with verified kids' clubs across Europe. If families find your hotel through our directory and book, we'd like to earn a small referral fee — here's how it works.</p>
@@ -264,7 +275,7 @@ partner_html = HEAD(
   <h2>Get in touch</h2>
   <p>Email <a href="mailto:hello@kidsclubhotels.com">hello@kidsclubhotels.com</a> with your hotel name and a brief note about your kids' club. We'll follow up within 2 business days.</p>
 </main>
-{FOOTER}
+{FOOTER()}
 </body></html>"""
 
 with open("partner.html", "w") as f:
