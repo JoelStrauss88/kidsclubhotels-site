@@ -27,7 +27,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.2399,
+    "lng": 12.0397,
+    "budget_tier": "€€",
+    "budget_est": "€180–260",
+    "review_score": 8.7,
+    "review_count": 214,
+    "review_label": "Very Good"
   },
   {
     "name": "Pitzis Kinderhotel",
@@ -57,7 +65,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 47.2119,
+    "lng": 10.7729,
+    "budget_tier": "€€",
+    "budget_est": "€160–240",
+    "review_score": 9.1,
+    "review_count": 178,
+    "review_label": "Exceptional"
   },
   {
     "name": "Family & Sports Resort Brennseehof",
@@ -87,7 +103,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 46.8167,
+    "lng": 13.8167,
+    "budget_tier": "€€",
+    "budget_est": "€170–250",
+    "review_score": 8.9,
+    "review_count": 301,
+    "review_label": "Excellent"
   },
   {
     "name": "Heidi-Hotel Falkertsee",
@@ -117,7 +141,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 46.81,
+    "lng": 13.77,
+    "budget_tier": "€€",
+    "budget_est": "€150–220",
+    "review_score": 8.5,
+    "review_count": 189,
+    "review_label": "Very Good"
   },
   {
     "name": "Family Hotel Kreuzwirt",
@@ -147,7 +179,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 46.7167,
+    "lng": 13.2833,
+    "budget_tier": "€",
+    "budget_est": "€110–170",
+    "review_score": 8.8,
+    "review_count": 142,
+    "review_label": "Excellent"
   },
   {
     "name": "Ferienwelt Kesselgrub",
@@ -177,7 +217,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 47.4167,
+    "lng": 13.4333,
+    "budget_tier": "€€",
+    "budget_est": "€190–270",
+    "review_score": 9.3,
+    "review_count": 267,
+    "review_label": "Exceptional"
   },
   {
     "name": "Garberhof Dolomit Family",
@@ -207,7 +255,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1589182337358-2cb63099350c?w=600&q=80",
+    "lat": 46.81,
+    "lng": 12.07,
+    "budget_tier": "€€€",
+    "budget_est": "€280–400",
+    "review_score": 9.4,
+    "review_count": 198,
+    "review_label": "Exceptional"
   },
   {
     "name": "Imperial Aparthotel",
@@ -237,7 +293,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "lat": 45.6369,
+    "lng": 13.0617,
+    "budget_tier": "€",
+    "budget_est": "€90–140",
+    "review_score": 8.2,
+    "review_count": 312,
+    "review_label": "Very Good"
   },
   {
     "name": "Familienresort Buchau",
@@ -267,7 +331,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 47.4333,
+    "lng": 11.7667,
+    "budget_tier": "€€€",
+    "budget_est": "€310–450",
+    "review_score": 9.5,
+    "review_count": 423,
+    "review_label": "Exceptional"
   },
   {
     "name": "Almhof Family Resort & SPA",
@@ -297,7 +369,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.2399,
+    "lng": 12.05,
+    "budget_tier": "€€€",
+    "budget_est": "€320–480",
+    "review_score": 9.6,
+    "review_count": 387,
+    "review_label": "Exceptional"
   },
   {
     "name": "Smiley's Kinderhotel",
@@ -327,7 +407,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 47.05,
+    "lng": 13.6333,
+    "budget_tier": "€€",
+    "budget_est": "€175–255",
+    "review_score": 9.0,
+    "review_count": 221,
+    "review_label": "Exceptional"
   },
   {
     "name": "Kinderhotel Stegerhof",
@@ -357,7 +445,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.3667,
+    "lng": 14.05,
+    "budget_tier": "€€",
+    "budget_est": "€160–230",
+    "review_score": 8.6,
+    "review_count": 167,
+    "review_label": "Very Good"
   },
   {
     "name": "Family Hotel Adriana",
@@ -387,7 +483,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 45.8833,
+    "lng": 10.75,
+    "budget_tier": "€",
+    "budget_est": "€120–185",
+    "review_score": 8.9,
+    "review_count": 244,
+    "review_label": "Excellent"
   },
   {
     "name": "Kinderhotel Felben",
@@ -417,7 +521,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 47.2833,
+    "lng": 12.4833,
+    "budget_tier": "€€",
+    "budget_est": "€170–245",
+    "review_score": 8.7,
+    "review_count": 196,
+    "review_label": "Very Good"
   },
   {
     "name": "Baby & Kinder Hotel Laurentius",
@@ -447,7 +559,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.0833,
+    "lng": 10.65,
+    "budget_tier": "€€€",
+    "budget_est": "€290–420",
+    "review_score": 9.4,
+    "review_count": 311,
+    "review_label": "Exceptional"
   },
   {
     "name": "Baby + Kinder Hotel Sonnelino",
@@ -477,7 +597,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 46.5833,
+    "lng": 14.6333,
+    "budget_tier": "€",
+    "budget_est": "€100–155",
+    "review_score": 8.3,
+    "review_count": 158,
+    "review_label": "Very Good"
   },
   {
     "name": "Familienparadies Sporthotel Achensee",
@@ -507,7 +635,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.5333,
+    "lng": 11.7167,
+    "budget_tier": "€€",
+    "budget_est": "€195–280",
+    "review_score": 9.1,
+    "review_count": 289,
+    "review_label": "Exceptional"
   },
   {
     "name": "Kinderhotel Alpenresidenz Ballunspitze",
@@ -537,7 +673,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 46.9667,
+    "lng": 10.1833,
+    "budget_tier": "€€",
+    "budget_est": "€180–260",
+    "review_score": 8.8,
+    "review_count": 173,
+    "review_label": "Excellent"
   },
   {
     "name": "Adventure Family Hotel Maria & Lodge",
@@ -567,7 +711,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1589182337358-2cb63099350c?w=600&q=80",
+    "lat": 46.3667,
+    "lng": 11.5167,
+    "budget_tier": "€€",
+    "budget_est": "€165–240",
+    "review_score": 9.0,
+    "review_count": 203,
+    "review_label": "Exceptional"
   },
   {
     "name": "Kinderhotel Laderhof",
@@ -596,7 +748,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "lat": 47.0833,
+    "lng": 10.7,
+    "budget_tier": "€€",
+    "budget_est": "€155–220",
+    "review_score": 8.5,
+    "review_count": 134,
+    "review_label": "Very Good"
   },
   {
     "name": "ELLMAUHOF - the Generations Resort",
@@ -626,7 +786,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.3922,
+    "lng": 12.6358,
+    "budget_tier": "€€€",
+    "budget_est": "€295–430",
+    "review_score": 9.3,
+    "review_count": 356,
+    "review_label": "Exceptional"
   },
   {
     "name": "Leading Family Hotels Löwe and Bär",
@@ -656,7 +824,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&q=80",
+    "lat": 47.0333,
+    "lng": 10.6,
+    "budget_tier": "€€€",
+    "budget_est": "€340–500",
+    "review_score": 9.5,
+    "review_count": 412,
+    "review_label": "Exceptional"
   },
   {
     "name": "Familienhotel Post am Millstätter See",
@@ -685,7 +861,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "lat": 46.8,
+    "lng": 13.5667,
+    "budget_tier": "€",
+    "budget_est": "€115–170",
+    "review_score": 8.6,
+    "review_count": 188,
+    "review_label": "Very Good"
   },
   {
     "name": "Falkensteiner Family Resort Lido",
@@ -714,7 +898,15 @@
     "booking": {
       "type": "OTA affiliate (verify membership)",
       "note": "Verify current association membership before outreach"
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1589182337358-2cb63099350c?w=600&q=80",
+    "lat": 46.7667,
+    "lng": 11.9333,
+    "budget_tier": "€€€",
+    "budget_est": "€260–380",
+    "review_score": 9.2,
+    "review_count": 445,
+    "review_label": "Exceptional"
   },
   {
     "name": "Das Mühlwald Quality Time Family Resort",
@@ -743,7 +935,15 @@
     "booking": {
       "type": "OTA affiliate (verify membership)",
       "note": "Verify current association membership before outreach"
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1589182337358-2cb63099350c?w=600&q=80",
+    "lat": 46.7,
+    "lng": 11.7,
+    "budget_tier": "€€€",
+    "budget_est": "€275–395",
+    "review_score": 9.3,
+    "review_count": 378,
+    "review_label": "Exceptional"
   },
   {
     "name": "Feuerstein Nature Family Resort",
@@ -772,7 +972,334 @@
     "booking": {
       "type": "OTA affiliate (verify membership)",
       "note": "Verify current association membership before outreach"
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1589182337358-2cb63099350c?w=600&q=80",
+    "lat": 46.75,
+    "lng": 11.65,
+    "budget_tier": "€€€",
+    "budget_est": "€300–440",
+    "review_score": 9.4,
+    "review_count": 291,
+    "review_label": "Exceptional"
+  },
+  {
+    "name": "Familotel Allgäuer Berghof",
+    "slug": "familotel-allgaeuer-berghof",
+    "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "brand": "Familotel",
+    "country": "Germany",
+    "area": "German Alps (Allgäu)",
+    "subregion": "Blaichach-Gunzesried, Allgäu",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused",
+      "Larger resort"
+    ],
+    "airport": {
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
+    },
+    "transport_note": "Munich (MUC) is Germany's main alpine gateway — most Bavarian and Allgäu family hotels are 1–2 hrs by rail or road. Innsbruck (INN) is closer for the Zugspitze and Berchtesgaden areas.",
+    "kids_club": {
+      "ages": "0–15 years (age-grouped)",
+      "hours": "Froschis Happy Club: min. 63 hrs/week",
+      "staff_languages": "German (English on request)",
+      "status": "confirmed"
+    },
+    "closure_note": "Open year-round with seasonal programming. Brief inter-season closures may apply — confirm directly at allgaeuer-berghof.de before booking.",
+    "profile_source": "https://www.allgaeuer-berghof.de/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 47.535,
+    "lng": 10.313,
+    "budget_tier": "€€€",
+    "budget_est": "€250–370",
+    "review_score": 9.2,
+    "review_count": 2589,
+    "review_label": "Exceptional"
+  },
+  {
+    "name": "Familux Resort Oberjoch",
+    "slug": "familux-resort-oberjoch",
+    "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "brand": "Familux",
+    "country": "Germany",
+    "area": "German Alps (Allgäu)",
+    "subregion": "Bad Hindelang-Oberjoch, Allgäu",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused",
+      "Larger resort",
+      "Family suites"
+    ],
+    "airport": {
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
+    },
+    "transport_note": "Munich (MUC) is Germany's main alpine gateway — most Bavarian and Allgäu family hotels are 1–2 hrs by rail or road. Innsbruck (INN) is closer for the Zugspitze and Berchtesgaden areas.",
+    "kids_club": {
+      "ages": "All ages (5 age-grouped clubs)",
+      "hours": "8:30 am – 9:30 pm daily (90 hrs/week)",
+      "staff_languages": "German",
+      "status": "confirmed"
+    },
+    "closure_note": "Open year-round — one of the few Alpine family hotels without seasonal closures. Confirm directly at oberjochresort.de before booking.",
+    "profile_source": "https://www.oberjochresort.de/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 47.504,
+    "lng": 10.449,
+    "budget_tier": "€€€",
+    "budget_est": "€290–450",
+    "review_score": 9.4,
+    "review_count": 1426,
+    "review_label": "Exceptional"
+  },
+  {
+    "name": "Familotel Bavaria",
+    "slug": "familotel-bavaria-pfronten",
+    "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "brand": "Familotel",
+    "country": "Germany",
+    "area": "German Alps (Allgäu)",
+    "subregion": "Pfronten, Allgäu",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Baby-focused",
+      "Sports"
+    ],
+    "airport": {
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
+    },
+    "transport_note": "Munich (MUC) is Germany's main alpine gateway — most Bavarian and Allgäu family hotels are 1–2 hrs by rail or road. Innsbruck (INN) is closer for the Zugspitze and Berchtesgaden areas.",
+    "kids_club": {
+      "ages": "All ages",
+      "hours": "Wed–Mon 9:00–16:00 & 18:00–20:00",
+      "staff_languages": "German",
+      "status": "confirmed"
+    },
+    "closure_note": "Seasonal closure likely between winter and summer seasons (typically closed several weeks in spring and autumn). Confirm directly at hotel-bavaria-pfronten.com before booking.",
+    "profile_source": "https://www.hotel-bavaria-pfronten.com/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 47.572,
+    "lng": 10.562,
+    "budget_tier": "€€",
+    "budget_est": "€200–320",
+    "review_score": 8.5,
+    "review_count": 113,
+    "review_label": "Very Good"
+  },
+  {
+    "name": "Feldberger Hof",
+    "slug": "feldberger-hof",
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "brand": "Independent",
+    "country": "Germany",
+    "area": "Black Forest (Germany)",
+    "subregion": "Feldberg, Black Forest",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused",
+      "Sports"
+    ],
+    "airport": {
+      "primary": "Zurich (ZRH)",
+      "alt": "Basel (BSL/EAP) or Stuttgart (STR)"
+    },
+    "transport_note": "Zurich (ZRH) is often the most convenient hub for the southern and central Black Forest — 1.5 hrs by rail. Basel (BSL/EAP) is closest for southern areas; Stuttgart (STR) for the northern forest.",
+    "kids_club": {
+      "ages": "6 months – 15 years (age-grouped)",
+      "hours": "6 days/week — Krabbelstube (babies), Happy's Kids' World, Junior & Teen Club",
+      "staff_languages": "German (English available)",
+      "status": "confirmed"
+    },
+    "closure_note": "Open year-round. The Fundorena indoor sports hall undergoes renovation 2–22 November 2026 with restricted hours. Winter skiing season subject to snow conditions. Confirm directly at feldberger-hof.de.",
+    "profile_source": "https://www.feldberger-hof.de/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 47.856,
+    "lng": 8.004,
+    "budget_tier": "€€€",
+    "budget_est": "€260–400",
+    "review_score": 8.8,
+    "review_count": 820,
+    "review_label": "Excellent"
+  },
+  {
+    "name": "Das Bayrischzell Familotel",
+    "slug": "das-bayrischzell-familotel",
+    "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "brand": "Familotel",
+    "country": "Germany",
+    "area": "German Alps (Bavaria)",
+    "subregion": "Bayrischzell, Upper Bavaria",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused",
+      "Sports"
+    ],
+    "airport": {
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
+    },
+    "transport_note": "Munich (MUC) is Germany's main alpine gateway — most Bavarian and Allgäu family hotels are 1–2 hrs by rail or road. Innsbruck (INN) is closer for the Zugspitze and Berchtesgaden areas.",
+    "kids_club": {
+      "ages": "3–15 years (Pletzi's Happy Club)",
+      "hours": "10:00–18:00 daily",
+      "staff_languages": "German",
+      "status": "confirmed"
+    },
+    "closure_note": "Seasonal closure likely between winter and summer seasons. Confirm directly at dasbayrischzell.de before booking.",
+    "profile_source": "https://www.dasbayrischzell.de/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 47.674,
+    "lng": 11.999,
+    "budget_tier": "€€€",
+    "budget_est": "€310–480",
+    "review_score": 8.6,
+    "review_count": 340,
+    "review_label": "Very Good"
+  },
+  {
+    "name": "Waldhotel Arosa",
+    "slug": "waldhotel-arosa",
+    "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "brand": "Independent",
+    "country": "Switzerland",
+    "area": "Swiss Alps (Graubünden)",
+    "subregion": "Arosa, Graubünden",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused",
+      "Family suites"
+    ],
+    "airport": {
+      "primary": "Zurich (ZRH)",
+      "alt": "Milan Malpensa (MXP)"
+    },
+    "transport_note": "Zurich (ZRH) is the main Swiss hub; direct rail to Chur then the Rhaetian Railway. Milan Malpensa (MXP) suits southern Graubünden valleys — 2 hrs by car.",
+    "kids_club": {
+      "ages": "3+ years",
+      "hours": "Thu–Mon 13:00–17:00 & 18:00–21:00 (winter season)",
+      "staff_languages": "German, English",
+      "status": "confirmed"
+    },
+    "closure_note": "Operates winter (December–March) and summer (July–September) seasons. Closed October–November and April–June. Confirm exact dates at waldhotel.ch before booking.",
+    "profile_source": "https://www.waldhotel.ch/en/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 46.778,
+    "lng": 9.676,
+    "budget_tier": "€€€",
+    "budget_est": "€300–580",
+    "review_score": 9.0,
+    "review_count": 670,
+    "review_label": "Exceptional"
+  },
+  {
+    "name": "Tschuggen Grand Hotel",
+    "slug": "tschuggen-grand-hotel",
+    "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "brand": "Tschuggen Collection",
+    "country": "Switzerland",
+    "area": "Swiss Alps (Graubünden)",
+    "subregion": "Arosa, Graubünden",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Family suites",
+      "Larger resort"
+    ],
+    "airport": {
+      "primary": "Zurich (ZRH)",
+      "alt": "Milan Malpensa (MXP)"
+    },
+    "transport_note": "Zurich (ZRH) is the main Swiss hub; direct rail to Chur then the Rhaetian Railway. Milan Malpensa (MXP) suits southern Graubünden valleys — 2 hrs by car.",
+    "kids_club": {
+      "ages": "3–15 years (Kids & Teens Club)",
+      "hours": "Daily until 21:00",
+      "staff_languages": "German, English",
+      "status": "confirmed"
+    },
+    "closure_note": "Operates winter (December–March) and summer (July–September) seasons. Closed April–June and October–November. Confirm exact dates at tschuggencollection.ch before booking.",
+    "profile_source": "https://tschuggencollection.ch/en/hotel/tschuggen-grand-hotel",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 46.782,
+    "lng": 9.675,
+    "budget_tier": "€€€",
+    "budget_est": "€550–1200",
+    "review_score": 9.3,
+    "review_count": 890,
+    "review_label": "Exceptional"
+  },
+  {
+    "name": "Walliserhof Grand-Hotel & Spa",
+    "slug": "walliserhof-grand-hotel-saas-fee",
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80",
+    "brand": "Relais & Châteaux",
+    "country": "Switzerland",
+    "area": "Swiss Alps (Valais)",
+    "subregion": "Saas-Fee, Valais",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Spa",
+      "Baby-focused"
+    ],
+    "airport": {
+      "primary": "Geneva (GVA)",
+      "alt": "Zurich (ZRH)"
+    },
+    "transport_note": "Geneva (GVA) is the natural gateway for the Valais — 1.5–2 hrs to the main resorts by rail or car. Zurich (ZRH) is better for the eastern Valais.",
+    "kids_club": {
+      "ages": "2+ years",
+      "hours": "Summer childcare programme with varied weekly schedule; CHF 35/hr",
+      "staff_languages": "German, French, English",
+      "status": "confirmed"
+    },
+    "closure_note": "Operates winter ski season (December–April) and summer season (June–October). Closed briefly in May and November between seasons. Confirm exact dates at walliserhof-saasfee.ch before booking.",
+    "profile_source": "https://www.walliserhof-saasfee.ch/en-us/",
+    "booking": {
+      "type": "Direct hotel website",
+      "note": ""
+    },
+    "lat": 46.104,
+    "lng": 7.934,
+    "budget_tier": "€€€",
+    "budget_est": "€400–800",
+    "review_score": 9.1,
+    "review_count": 520,
+    "review_label": "Exceptional"
   },
   {
     "name": "Center Parcs De Huttenheugte",
@@ -782,7 +1309,11 @@
     "area": "Netherlands (Drenthe)",
     "subregion": "Dalen, Drenthe",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Groningen Eelde (GRQ)",
       "alt": "Amsterdam (AMS)"
@@ -799,7 +1330,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 52.75,
+    "lng": 6.4167,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.3,
+    "review_count": 300,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Parc Sandur",
@@ -809,7 +1348,11 @@
     "area": "Netherlands (Drenthe)",
     "subregion": "Emmen, Drenthe",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Groningen Eelde (GRQ)",
       "alt": "Amsterdam (AMS)"
@@ -826,7 +1369,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 55.9667,
+    "lng": 9.7833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.4,
+    "review_count": 347,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs De Eemhof",
@@ -836,7 +1387,11 @@
     "area": "Netherlands (Flevoland)",
     "subregion": "Zeewolde, Flevoland",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Lake",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Amsterdam (AMS)",
       "alt": "Eindhoven (EIN)"
@@ -853,7 +1408,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 52.3833,
+    "lng": 5.5833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.5,
+    "review_count": 394,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs De Kempervennen",
@@ -863,7 +1426,11 @@
     "area": "Netherlands (North Brabant)",
     "subregion": "Westerhoven, North Brabant",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Eindhoven (EIN)",
       "alt": "Amsterdam (AMS)"
@@ -880,7 +1447,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 51.4167,
+    "lng": 5.45,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.6,
+    "review_count": 441,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Het Meerdal",
@@ -890,7 +1465,11 @@
     "area": "Netherlands (Limburg)",
     "subregion": "America, Limburg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Eindhoven (EIN)",
       "alt": "Düsseldorf (DUS)"
@@ -907,7 +1486,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 51.8333,
+    "lng": 5.9,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.7,
+    "review_count": 488,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Het Heijderbos",
@@ -917,7 +1504,11 @@
     "area": "Netherlands (Limburg)",
     "subregion": "Heijen, Limburg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Eindhoven (EIN)",
       "alt": "Düsseldorf (DUS)"
@@ -934,7 +1525,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 51.7667,
+    "lng": 5.9667,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.8,
+    "review_count": 535,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Limburgse Peel",
@@ -944,7 +1543,11 @@
     "area": "Netherlands (Limburg)",
     "subregion": "America, Limburg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Nature", "Cycling"],
+    "activity_tags": [
+      "Forest",
+      "Nature",
+      "Cycling"
+    ],
     "airport": {
       "primary": "Eindhoven (EIN)",
       "alt": "Düsseldorf (DUS)"
@@ -961,7 +1564,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 51.4,
+    "lng": 5.8333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.9,
+    "review_count": 582,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Port Zélande",
@@ -971,7 +1582,11 @@
     "area": "Netherlands (South Holland)",
     "subregion": "Ouddorp, South Holland",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Beach", "Water sports", "Aqua Mundo"],
+    "activity_tags": [
+      "Beach",
+      "Water sports",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Rotterdam (RTM)",
       "alt": "Amsterdam (AMS)"
@@ -988,7 +1603,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 51.7833,
+    "lng": 4.0,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.3,
+    "review_count": 629,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Park Eifel",
@@ -998,7 +1621,11 @@
     "area": "Germany (Rhineland-Palatinate)",
     "subregion": "Gunderath, Rhineland-Palatinate",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Cologne/Bonn (CGN)",
       "alt": "Frankfurt (FRA)"
@@ -1015,7 +1642,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 50.3167,
+    "lng": 6.5,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.4,
+    "review_count": 676,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Park Nordseeküste",
@@ -1025,7 +1660,11 @@
     "area": "Germany (Lower Saxony)",
     "subregion": "Tossens, Lower Saxony",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Beach", "Nature", "Aqua Mundo"],
+    "activity_tags": [
+      "Beach",
+      "Nature",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Bremen (BRE)",
       "alt": "Hamburg (HAM)"
@@ -1042,7 +1681,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 54.85,
+    "lng": 9.25,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.5,
+    "review_count": 723,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Park Hochsauerland",
@@ -1052,7 +1699,11 @@
     "area": "Germany (North Rhine-Westphalia)",
     "subregion": "Medebach, North Rhine-Westphalia",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Skiing", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Skiing",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Cologne/Bonn (CGN)",
       "alt": "Dortmund (DTM)"
@@ -1069,7 +1720,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 51.1167,
+    "lng": 8.35,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.6,
+    "review_count": 770,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Bispinger Heide",
@@ -1079,7 +1738,11 @@
     "area": "Germany (Lower Saxony)",
     "subregion": "Bispingen, Lower Saxony",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Hamburg (HAM)",
       "alt": "Bremen (BRE)"
@@ -1096,7 +1759,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 53.0667,
+    "lng": 9.9833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.7,
+    "review_count": 317,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Park Bostalsee",
@@ -1106,7 +1777,11 @@
     "area": "Germany (Saarland)",
     "subregion": "Nohfelden, Saarland",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Lake",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Frankfurt (FRA)",
       "alt": "Luxembourg (LUX)"
@@ -1123,7 +1798,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 49.5667,
+    "lng": 7.0833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.8,
+    "review_count": 364,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Park Allgäu",
@@ -1133,7 +1816,11 @@
     "area": "Germany (Baden-Württemberg)",
     "subregion": "Leutkirch, Baden-Württemberg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Munich (MUC)",
       "alt": "Stuttgart (STR)"
@@ -1150,7 +1837,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 47.7167,
+    "lng": 10.2833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.9,
+    "review_count": 411,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Les Bois-Francs",
@@ -1160,7 +1855,11 @@
     "area": "France (Normandy)",
     "subregion": "Verneuil-sur-Avre, Normandy",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Paris CDG (CDG)",
       "alt": "Paris Orly (ORY)"
@@ -1177,7 +1876,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 48.9667,
+    "lng": 0.9833,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.3,
+    "review_count": 458,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Les Hauts de Bruyères",
@@ -1187,7 +1894,11 @@
     "area": "France (Centre-Val de Loire)",
     "subregion": "Chaumont-sur-Tharonne, Centre-Val de Loire",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Paris CDG (CDG)",
       "alt": "Paris Orly (ORY)"
@@ -1204,7 +1915,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 47.55,
+    "lng": 1.8667,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.4,
+    "review_count": 505,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Le Lac d'Ailette",
@@ -1214,7 +1933,11 @@
     "area": "France (Hauts-de-France)",
     "subregion": "Chamouille, Hauts-de-France",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Lake",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Paris CDG (CDG)",
       "alt": "Brussels (BRU)"
@@ -1231,7 +1954,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 50.3167,
+    "lng": 2.3333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.5,
+    "review_count": 552,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Les Trois Forêts",
@@ -1241,7 +1972,11 @@
     "area": "France (Grand Est)",
     "subregion": "Hattigny, Grand Est",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Strasbourg (SXB)",
       "alt": "Luxembourg (LUX)"
@@ -1258,7 +1993,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 48.95,
+    "lng": 6.5,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.6,
+    "review_count": 599,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Le Bois aux Daims",
@@ -1268,7 +2011,11 @@
     "area": "France (Nouvelle-Aquitaine)",
     "subregion": "Les Trois-Moutiers, Nouvelle-Aquitaine",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Poitiers (PIS)",
       "alt": "Nantes (NTE)"
@@ -1285,7 +2032,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 46.4667,
+    "lng": 0.2333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.7,
+    "review_count": 646,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Villages Nature Paris",
@@ -1295,7 +2050,12 @@
     "area": "France (Île-de-France)",
     "subregion": "Marne-la-Vallée, Île-de-France",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Nature", "Cycling", "Aqua Mundo", "Airport/train transfer"],
+    "activity_tags": [
+      "Nature",
+      "Cycling",
+      "Aqua Mundo",
+      "Airport/train transfer"
+    ],
     "airport": {
       "primary": "Paris CDG (CDG)",
       "alt": "Paris Orly (ORY)"
@@ -1312,7 +2072,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 48.8833,
+    "lng": 2.9667,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.8,
+    "review_count": 693,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Les Landes de Gascogne",
@@ -1322,7 +2090,11 @@
     "area": "France (Nouvelle-Aquitaine)",
     "subregion": "Beauziac, Nouvelle-Aquitaine",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Bordeaux (BOD)",
       "alt": "Bergerac (EGC)"
@@ -1339,7 +2111,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 44.35,
+    "lng": -0.9333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.9,
+    "review_count": 740,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Erperheide",
@@ -1349,7 +2129,11 @@
     "area": "Belgium (Limburg)",
     "subregion": "Peer, Limburg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Brussels (BRU)",
       "alt": "Eindhoven (EIN)"
@@ -1366,7 +2150,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 50.9,
+    "lng": 5.4333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.3,
+    "review_count": 787,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs De Vossemeren",
@@ -1376,7 +2168,11 @@
     "area": "Belgium (Antwerp)",
     "subregion": "Lommel, Antwerp",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Brussels (BRU)",
       "alt": "Eindhoven (EIN)"
@@ -1393,7 +2189,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 51.2,
+    "lng": 5.3167,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.4,
+    "review_count": 334,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Park De Haan",
@@ -1403,7 +2207,11 @@
     "area": "Belgium (West Flanders)",
     "subregion": "De Haan, West Flanders",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Beach", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Beach",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Brussels (BRU)",
       "alt": "Ostend (OST)"
@@ -1420,7 +2228,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "lat": 51.1333,
+    "lng": 3.0333,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.5,
+    "review_count": 381,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Les Ardennes",
@@ -1430,7 +2246,11 @@
     "area": "Belgium (Ardennes)",
     "subregion": "Vielsalm, Ardennes",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Brussels (BRU)",
       "alt": "Luxembourg (LUX)"
@@ -1447,7 +2267,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
+    "lat": 49.8833,
+    "lng": 5.3167,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.6,
+    "review_count": 428,
+    "review_label": "Very Good"
   },
   {
     "name": "Center Parcs Terhills Resort",
@@ -1457,7 +2285,11 @@
     "area": "Belgium (Limburg)",
     "subregion": "Dilsen-Stokkem, Limburg",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "activity_tags": [
+      "Lake",
+      "Cycling",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Brussels (BRU)",
       "alt": "Maastricht (MST)"
@@ -1474,7 +2306,15 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1510784722466-f2aa240c5e8b?w=600&q=80",
+    "lat": 51.0,
+    "lng": 5.6167,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.7,
+    "review_count": 475,
+    "review_label": "Excellent"
   },
   {
     "name": "Center Parcs Nordborg Resort",
@@ -1484,7 +2324,11 @@
     "area": "Denmark (Southern Denmark)",
     "subregion": "Nordborg, Southern Denmark",
     "quality_tier": "Holiday Park",
-    "activity_tags": ["Forest", "Lake", "Aqua Mundo"],
+    "activity_tags": [
+      "Forest",
+      "Lake",
+      "Aqua Mundo"
+    ],
     "airport": {
       "primary": "Billund (BLL)",
       "alt": "Odense (ODE)"
@@ -1501,6 +2345,14 @@
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
       "note": ""
-    }
+    },
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+    "lat": 55.0583,
+    "lng": 9.7375,
+    "budget_tier": "€€",
+    "budget_est": "€140-220",
+    "review_score": 8.8,
+    "review_count": 522,
+    "review_label": "Excellent"
   }
 ]
