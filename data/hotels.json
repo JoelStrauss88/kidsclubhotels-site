@@ -773,5 +773,734 @@
       "type": "OTA affiliate (verify membership)",
       "note": "Verify current association membership before outreach"
     }
+  },
+  {
+    "name": "Center Parcs De Huttenheugte",
+    "slug": "center-parcs-de-huttenheugte",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Drenthe)",
+    "subregion": "Dalen, Drenthe",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Groningen Eelde (GRQ)",
+      "alt": "Amsterdam (AMS)"
+    },
+    "transport_note": "Car is most practical. Groningen Eelde is the nearest regional airport; Amsterdam Schiphol (~2 hrs by car) has far more flight options.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Parc Sandur",
+    "slug": "center-parcs-parc-sandur",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Drenthe)",
+    "subregion": "Emmen, Drenthe",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Groningen Eelde (GRQ)",
+      "alt": "Amsterdam (AMS)"
+    },
+    "transport_note": "Car is most practical. Groningen Eelde is the nearest regional airport; Amsterdam Schiphol (~2 hrs by car) has far more flight options.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs De Eemhof",
+    "slug": "center-parcs-de-eemhof",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Flevoland)",
+    "subregion": "Zeewolde, Flevoland",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Amsterdam (AMS)",
+      "alt": "Eindhoven (EIN)"
+    },
+    "transport_note": "Amsterdam Schiphol is ~45 min by car. Trains run to Amersfoort, then bus or taxi for the final leg; a car is more practical.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs De Kempervennen",
+    "slug": "center-parcs-de-kempervennen",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (North Brabant)",
+    "subregion": "Westerhoven, North Brabant",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Eindhoven (EIN)",
+      "alt": "Amsterdam (AMS)"
+    },
+    "transport_note": "Eindhoven Airport is ~25 min by car. Train to Eindhoven, then taxi; a car gives the most flexibility.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Het Meerdal",
+    "slug": "center-parcs-het-meerdal",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Limburg)",
+    "subregion": "America, Limburg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Eindhoven (EIN)",
+      "alt": "Düsseldorf (DUS)"
+    },
+    "transport_note": "Eindhoven Airport is ~45 min by car; Düsseldorf is ~1 hr. A car is strongly recommended for this location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Het Heijderbos",
+    "slug": "center-parcs-het-heijderbos",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Limburg)",
+    "subregion": "Heijen, Limburg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Eindhoven (EIN)",
+      "alt": "Düsseldorf (DUS)"
+    },
+    "transport_note": "Eindhoven Airport is ~50 min by car; Düsseldorf is ~45 min. A car is strongly recommended.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Limburgse Peel",
+    "slug": "center-parcs-limburgse-peel",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (Limburg)",
+    "subregion": "America, Limburg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Nature", "Cycling"],
+    "airport": {
+      "primary": "Eindhoven (EIN)",
+      "alt": "Düsseldorf (DUS)"
+    },
+    "transport_note": "Eindhoven Airport is ~45 min by car; Düsseldorf is ~1 hr. A car is strongly recommended for this location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Port Zélande",
+    "slug": "center-parcs-port-zelande",
+    "brand": "Center Parcs Europe",
+    "country": "Netherlands",
+    "area": "Netherlands (South Holland)",
+    "subregion": "Ouddorp, South Holland",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Beach", "Water sports", "Aqua Mundo"],
+    "airport": {
+      "primary": "Rotterdam (RTM)",
+      "alt": "Amsterdam (AMS)"
+    },
+    "transport_note": "Rotterdam The Hague Airport is ~50 min by car. Amsterdam Schiphol is ~1.5 hrs. A car is recommended; the coastal location has limited public transport.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park Eifel",
+    "slug": "center-parcs-park-eifel",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (Rhineland-Palatinate)",
+    "subregion": "Gunderath, Rhineland-Palatinate",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Cologne/Bonn (CGN)",
+      "alt": "Frankfurt (FRA)"
+    },
+    "transport_note": "Cologne/Bonn Airport is ~1.5 hrs by car. Frankfurt is ~2 hrs. A car is essential for this rural Eifel location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park Nordseeküste",
+    "slug": "center-parcs-park-nordsee",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (Lower Saxony)",
+    "subregion": "Tossens, Lower Saxony",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Beach", "Nature", "Aqua Mundo"],
+    "airport": {
+      "primary": "Bremen (BRE)",
+      "alt": "Hamburg (HAM)"
+    },
+    "transport_note": "Bremen Airport is ~1 hr by car. Hamburg is ~1.5 hrs. A car is essential for this North Sea coast location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park Hochsauerland",
+    "slug": "center-parcs-park-hochsauerland",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (North Rhine-Westphalia)",
+    "subregion": "Medebach, North Rhine-Westphalia",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Skiing", "Aqua Mundo"],
+    "airport": {
+      "primary": "Cologne/Bonn (CGN)",
+      "alt": "Dortmund (DTM)"
+    },
+    "transport_note": "Cologne/Bonn Airport is ~1.5 hrs by car. Dortmund is ~1.5 hrs. A car is essential for this Sauerland forest location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Bispinger Heide",
+    "slug": "center-parcs-bispinger-heide",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (Lower Saxony)",
+    "subregion": "Bispingen, Lower Saxony",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Hamburg (HAM)",
+      "alt": "Bremen (BRE)"
+    },
+    "transport_note": "Hamburg Airport is ~1 hr by car. Bremen is ~1 hr. A car is recommended for this heathland location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park Bostalsee",
+    "slug": "center-parcs-park-bostalsee",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (Saarland)",
+    "subregion": "Nohfelden, Saarland",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Frankfurt (FRA)",
+      "alt": "Luxembourg (LUX)"
+    },
+    "transport_note": "Frankfurt Airport is ~1.5 hrs by car. Luxembourg Airport is ~1 hr. A car is essential for this Saarland lake location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park Allgäu",
+    "slug": "center-parcs-park-allgau",
+    "brand": "Center Parcs Europe",
+    "country": "Germany",
+    "area": "Germany (Baden-Württemberg)",
+    "subregion": "Leutkirch, Baden-Württemberg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Munich (MUC)",
+      "alt": "Stuttgart (STR)"
+    },
+    "transport_note": "Munich Airport is ~1.5 hrs by car. Stuttgart is ~1.5 hrs. A car is essential. This is the newest German park, opened 2018.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Les Bois-Francs",
+    "slug": "center-parcs-les-bois-francs",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Normandy)",
+    "subregion": "Verneuil-sur-Avre, Normandy",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Paris CDG (CDG)",
+      "alt": "Paris Orly (ORY)"
+    },
+    "transport_note": "Paris CDG is ~1.5 hrs by car. Orly is ~1.5 hrs. A car is recommended; the park is in a rural Norman forest.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Les Hauts de Bruyères",
+    "slug": "center-parcs-les-hauts-de-bruyeres",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Centre-Val de Loire)",
+    "subregion": "Chaumont-sur-Tharonne, Centre-Val de Loire",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Paris CDG (CDG)",
+      "alt": "Paris Orly (ORY)"
+    },
+    "transport_note": "Paris CDG is ~2 hrs by car via A10/A71. Orly is ~1.5 hrs. A car is strongly recommended for this Sologne forest location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Le Lac d'Ailette",
+    "slug": "center-parcs-le-lac-dailette",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Hauts-de-France)",
+    "subregion": "Chamouille, Hauts-de-France",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Paris CDG (CDG)",
+      "alt": "Brussels (BRU)"
+    },
+    "transport_note": "Paris CDG is ~1.5 hrs by car. Brussels is ~1.5 hrs. This lakeside park is one of the most accessible by both car and public transport (train to Laon, then taxi).",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Les Trois Forêts",
+    "slug": "center-parcs-les-trois-forets",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Grand Est)",
+    "subregion": "Hattigny, Grand Est",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Strasbourg (SXB)",
+      "alt": "Luxembourg (LUX)"
+    },
+    "transport_note": "Strasbourg Airport is ~1 hr by car. Luxembourg is ~1.5 hrs. A car is essential for this Lorraine forest location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Le Bois aux Daims",
+    "slug": "center-parcs-le-bois-aux-daims",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Nouvelle-Aquitaine)",
+    "subregion": "Les Trois-Moutiers, Nouvelle-Aquitaine",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Poitiers (PIS)",
+      "alt": "Nantes (NTE)"
+    },
+    "transport_note": "Poitiers Airport is ~45 min by car. Nantes is ~1.5 hrs. A car is strongly recommended for this rural Loire location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Villages Nature Paris",
+    "slug": "center-parcs-villages-nature-paris",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Île-de-France)",
+    "subregion": "Marne-la-Vallée, Île-de-France",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Nature", "Cycling", "Aqua Mundo", "Airport/train transfer"],
+    "airport": {
+      "primary": "Paris CDG (CDG)",
+      "alt": "Paris Orly (ORY)"
+    },
+    "transport_note": "Paris CDG is ~30 min by car or shuttle. A direct shuttle service runs from CDG. This is the most transport-accessible Center Parcs park in Europe — also adjacent to Disneyland Paris.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Les Landes de Gascogne",
+    "slug": "center-parcs-les-landes-de-gascogne",
+    "brand": "Center Parcs Europe",
+    "country": "France",
+    "area": "France (Nouvelle-Aquitaine)",
+    "subregion": "Beauziac, Nouvelle-Aquitaine",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Bordeaux (BOD)",
+      "alt": "Bergerac (EGC)"
+    },
+    "transport_note": "Bordeaux Airport is ~1 hr by car. Bergerac is ~1 hr. A car is essential for this Landes pine forest location. Opened 2022 — the newest French park.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Erperheide",
+    "slug": "center-parcs-erperheide",
+    "brand": "Center Parcs Europe",
+    "country": "Belgium",
+    "area": "Belgium (Limburg)",
+    "subregion": "Peer, Limburg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Brussels (BRU)",
+      "alt": "Eindhoven (EIN)"
+    },
+    "transport_note": "Brussels Airport is ~1 hr by car. Eindhoven is ~45 min. A car is recommended; bus connections from Hasselt are available.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs De Vossemeren",
+    "slug": "center-parcs-de-vossemeren",
+    "brand": "Center Parcs Europe",
+    "country": "Belgium",
+    "area": "Belgium (Antwerp)",
+    "subregion": "Lommel, Antwerp",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Brussels (BRU)",
+      "alt": "Eindhoven (EIN)"
+    },
+    "transport_note": "Brussels Airport is ~1 hr by car. Eindhoven is ~30 min. Train to Hasselt or Eindhoven, then taxi/bus for the final stretch.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Park De Haan",
+    "slug": "center-parcs-park-de-haan",
+    "brand": "Center Parcs Europe",
+    "country": "Belgium",
+    "area": "Belgium (West Flanders)",
+    "subregion": "De Haan, West Flanders",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Beach", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Brussels (BRU)",
+      "alt": "Ostend (OST)"
+    },
+    "transport_note": "Brussels Airport is ~1.5 hrs by car. Ostend Airport is ~10 min by car. Tram along the Belgian coast runs directly to De Haan — one of the few Center Parcs parks accessible without a car.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Les Ardennes",
+    "slug": "center-parcs-les-ardennes",
+    "brand": "Center Parcs Europe",
+    "country": "Belgium",
+    "area": "Belgium (Ardennes)",
+    "subregion": "Vielsalm, Ardennes",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Brussels (BRU)",
+      "alt": "Luxembourg (LUX)"
+    },
+    "transport_note": "Brussels Airport is ~2 hrs by car via E25. Luxembourg Airport is ~1.5 hrs. A car is essential for this Ardennes forest location.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Terhills Resort",
+    "slug": "center-parcs-terhills-resort",
+    "brand": "Center Parcs Europe",
+    "country": "Belgium",
+    "area": "Belgium (Limburg)",
+    "subregion": "Dilsen-Stokkem, Limburg",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Lake", "Cycling", "Aqua Mundo"],
+    "airport": {
+      "primary": "Brussels (BRU)",
+      "alt": "Maastricht (MST)"
+    },
+    "transport_note": "Brussels Airport is ~1.5 hrs by car. Maastricht Airport is ~30 min. This is the newest Belgian park, opened 2021, built on a former mine lake.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Center Parcs Nordborg Resort",
+    "slug": "center-parcs-nordborg-resort",
+    "brand": "Center Parcs Europe",
+    "country": "Denmark",
+    "area": "Denmark (Southern Denmark)",
+    "subregion": "Nordborg, Southern Denmark",
+    "quality_tier": "Holiday Park",
+    "activity_tags": ["Forest", "Lake", "Aqua Mundo"],
+    "airport": {
+      "primary": "Billund (BLL)",
+      "alt": "Odense (ODE)"
+    },
+    "transport_note": "Billund Airport is ~1.5 hrs by car. Odense Airport is ~1 hr. A car is strongly recommended. This is the newest Center Parcs park in Europe, opened 2025.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Center Parcs parks are open year-round (52 weeks). There are no seasonal closures — this is a key advantage over Alpine ski hotels.",
+    "profile_source": "https://www.centerparcs.eu/en",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
   }
 ]
