@@ -12,17 +12,17 @@
       "Baby-focused"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. The hotel operates both winter (ski) and summer seasons in Gerlos/Zillertal Arena; brief closures typically occur in mid-to-late April and in November between seasons. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -50,17 +50,17 @@
       "Airport/train transfer"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. The hotel describes four seasons of programming suggesting operation most of the year, but brief inter-season closures (typically late April and November) are standard in the Pitztal valley. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -88,17 +88,17 @@
       "Sports"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Describes year-round operation but brief inter-season breaks are common at Carinthian lake hotels. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -126,17 +126,17 @@
       "Pets allowed"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Open summer from approximately late May to early November (packages dated 28 May – 8 Nov 2026 visible on site); closed November to late December and mid-April to late May. High-altitude location (1,875 m) means shorter open seasons than valley hotels. Confirm exact dates before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -164,17 +164,17 @@
       "Cycling"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Weissensee lake hotels typically operate summer (May–October) and winter (December–March) seasons with closures in between. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -205,14 +205,14 @@
       "primary": "Salzburg (SZG)",
       "alt": "Munich (MUC)"
     },
-    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "transport_note": "Salzburg (SZG) is 45–60 min closer than Munich and well-served from the UK, Netherlands, and Germany by Ryanair and easyJet — always check it first. Munich (MUC) has the widest route network including long-haul and is a strong fallback. Rail to Salzburg Hbf then a hotel shuttle is a good car-free option.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Altenmarkt-Zauchensee ski hotels typically close briefly between winter and summer seasons (late April and November). Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -240,17 +240,17 @@
       "Cycling"
     ],
     "airport": {
-      "primary": "Bolzano (BZO)",
-      "alt": "Innsbruck (INN) / Verona (VRN)"
+      "primary": "Milan Malpensa (MXP)",
+      "alt": "Venice (VCE) or Innsbruck (INN)"
     },
-    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "transport_note": "Milan Malpensa (MXP) is the main international gateway — 2.5–3 hrs by car into the Dolomites valleys. Venice (VCE) suits the eastern Dolomites (2–2.5 hrs); Innsbruck (INN) is closest for the northern valleys. Bolzano has an airport but almost no international routes — avoid routing through it.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. South Tyrol family hotels in Rasen-Antholz typically run winter (December–April) and summer (June–October) seasons. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -279,16 +279,16 @@
     ],
     "airport": {
       "primary": "Venice (VCE)",
-      "alt": "Trieste (TRS)"
+      "alt": "Milan Malpensa (MXP)"
     },
-    "transport_note": "Direct rail or highway link from Venice; a car is worth having in peak summer for coastal-town congestion.",
+    "transport_note": "Venice (VCE) is the natural gateway — about 1 hour by car to the northern Adriatic coast. Trieste has an airport but very few international routes; avoid it unless flying from within Italy. Milan Malpensa (MXP) suits transatlantic or long-haul connections.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — the Adriatic coast season is primarily summer (May–September); the hotel is likely closed October through April. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -316,17 +316,17 @@
       "Baby-focused"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Operates seasonally. Based on offer dates visible on their website, the resort is open: winter (late December to mid-April approx.), and summer (mid-May to late October approx.). Closed November and brief spring/autumn inter-season weeks. Confirm exact dates before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -354,17 +354,17 @@
       "Spa"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Located in Gerlos alongside Kinderhotel Kröller; inter-season closures (mid-April and November) are typical. Confirm directly at familyresort.at before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -392,17 +392,17 @@
       "Airport/train transfer"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Operates seasonally. Based on historic patterns: open approximately 17 May – 13 Sep (summer), 18 Oct – 8 Nov (autumn), 26 Dec – 11 Apr (winter/spring). Closed mid-April to mid-May and early November to late December. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -430,17 +430,17 @@
       "Cycling"
     ],
     "airport": {
-      "primary": "Graz (GRZ)",
+      "primary": "Vienna (VIE)",
       "alt": "Salzburg (SZG)"
     },
-    "transport_note": "Regional rail to Irdning-Donnersbachtal or similar hub, then short taxi/shuttle. A car is the easier option for this area.",
+    "transport_note": "Vienna (VIE) is Austria's main international hub — 2.5–3 hr drive west into the Ennstal valley. Graz (GRZ) is geographically closer but has very limited international routes; check it only if flying from Frankfurt, Zürich or Amsterdam. Salzburg (SZG) works well for the northwestern parts of Styria.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Operates seasonally. Summer packages run 13 May – 12 Sep 2026; winter packages available January–March. Closed October–November and briefly in spring (after Easter). Confirm exact dates at stegerhof.at before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -469,16 +469,16 @@
     ],
     "airport": {
       "primary": "Verona (VRN)",
-      "alt": "Bergamo (BGY)"
+      "alt": "Milan Bergamo (BGY)"
     },
-    "transport_note": "Rail to Trento or Rovereto, then bus/transfer into the Ledro valley. A car is more flexible given limited bus frequency.",
+    "transport_note": "Verona (VRN) is the closest proper international airport to Lake Ledro and the Trentino valleys — about 1.5 hrs by car and well-served from the UK and northern Europe. Milan Bergamo (BGY) is a budget-carrier hub (Ryanair) with many routes — 2 hrs from Trentino. Milan Malpensa (MXP) suits long-haul connections.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Open most of the year. Offer dates on site include autumn packages through early November 2026; closed in deep winter (December–February typical for Lake Ledro). Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -509,14 +509,14 @@
       "primary": "Salzburg (SZG)",
       "alt": "Munich (MUC)"
     },
-    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "transport_note": "Salzburg (SZG) is 45–60 min closer than Munich and well-served from the UK, Netherlands, and Germany by Ryanair and easyJet — always check it first. Munich (MUC) has the widest route network including long-haul and is a strong fallback. Rail to Salzburg Hbf then a hotel shuttle is a good car-free option.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Mittersill hotels typically close between ski season and summer (mid-April to late May) and in November. Confirm directly at felben.at before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -544,17 +544,17 @@
       "Baby-focused"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "The hotel's website states it is open through 1 November 2026 for summer; baby packages listed for December and January indicating winter season. Typical closure: November and briefly in late April between seasons. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -582,17 +582,17 @@
       "Cycling"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. St. Kanzian (Klopeiner See) is primarily a summer lake destination; hotel likely open May–October and closed the rest of the year. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -620,17 +620,17 @@
       "Lake"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Achenkirch/Achensee hotels typically run summer and winter seasons with inter-season closures in April and November. Confirm directly at sporthotel-achensee.com before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -658,17 +658,17 @@
       "Pets allowed"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Galtür is a ski and summer resort; typical closures are mid-April to late May and October–November between seasons. Confirm directly before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -696,17 +696,17 @@
       "Cycling"
     ],
     "airport": {
-      "primary": "Bolzano (BZO)",
-      "alt": "Innsbruck (INN) / Verona (VRN)"
+      "primary": "Milan Malpensa (MXP)",
+      "alt": "Venice (VCE) or Innsbruck (INN)"
     },
-    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "transport_note": "Milan Malpensa (MXP) is the main international gateway — 2.5–3 hrs by car into the Dolomites valleys. Venice (VCE) suits the eastern Dolomites (2–2.5 hrs); Innsbruck (INN) is closest for the northern valleys. Bolzano has an airport but almost no international routes — avoid routing through it.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Obereggen is a ski/summer resort in South Tyrol; inter-season closures (typically mid-April and October–November) are standard. Confirm directly at hotel-maria.it before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -733,17 +733,17 @@
       "Baby-focused"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Operates seasonally. Winter season runs approximately 5 December 2025 – 11 April 2026; summer season runs approximately 13 June – 18 October 2026. Closed late April to mid-June and late October to early December. Confirm directly at laderhof.at.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -774,14 +774,14 @@
       "primary": "Salzburg (SZG)",
       "alt": "Munich (MUC)"
     },
-    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "transport_note": "Salzburg (SZG) is 45–60 min closer than Munich and well-served from the UK, Netherlands, and Germany by Ryanair and easyJet — always check it first. Munich (MUC) has the widest route network including long-haul and is a strong fallback. Rail to Salzburg Hbf then a hotel shuttle is a good car-free option.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Saalbach Hinterglemm hotels typically close between ski season and summer (late April to late May) and in November. Confirm directly at ellmauhof.at before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -809,17 +809,17 @@
       "Family suites"
     ],
     "airport": {
-      "primary": "Innsbruck (INN)",
-      "alt": "Munich (MUC)"
+      "primary": "Munich (MUC)",
+      "alt": "Innsbruck (INN)"
     },
-    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "transport_note": "Munich (MUC) is the main international gateway with year-round connections from across Europe, North America and beyond. Innsbruck (INN) has good ski-season routes from the UK, Netherlands and Scandinavia and is 30–60 min closer to Tyrolean valleys — worth checking in winter. Regional rail (ÖBB) reaches main valley towns; ski villages need a hotel transfer or rental car for the final stretch.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Serfaus ski resort hotels typically close mid-April to late May and briefly in November between seasons. Confirm directly at loewebaer.com before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -846,17 +846,17 @@
       "Lake"
     ],
     "airport": {
-      "primary": "Klagenfurt (KLU)",
-      "alt": "Salzburg (SZG) / Vienna (VIE)"
+      "primary": "Vienna (VIE)",
+      "alt": "Ljubljana (LJU)"
     },
-    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "transport_note": "Vienna (VIE) has the widest international connections — 2.5–3 hr drive or rail into Carinthia via the Tauern motorway. Ljubljana (LJU) is often the best option from the UK, Netherlands and Germany (Ryanair, easyJet) and is only 1–1.5 hrs from the Carinthian lakes — always worth checking.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Millstatt am See operates as a summer lake and winter destination; brief inter-season closures are typical. Confirm directly at familienhotelpost.com before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -883,17 +883,17 @@
       "Larger resort"
     ],
     "airport": {
-      "primary": "Bolzano (BZO)",
-      "alt": "Innsbruck (INN) / Verona (VRN)"
+      "primary": "Milan Malpensa (MXP)",
+      "alt": "Venice (VCE) or Innsbruck (INN)"
     },
-    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "transport_note": "Milan Malpensa (MXP) is the main international gateway — 2.5–3 hrs by car into the Dolomites valleys. Venice (VCE) suits the eastern Dolomites (2–2.5 hrs); Innsbruck (INN) is closest for the northern valleys. Bolzano has an airport but almost no international routes — avoid routing through it.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Open year-round (Ehrenburg/Kronplatz is both a ski and summer destination). Brief inter-season closures may apply — confirm directly at falkensteiner.com before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (verify membership)",
@@ -920,17 +920,17 @@
       "Larger resort"
     ],
     "airport": {
-      "primary": "Bolzano (BZO)",
-      "alt": "Innsbruck (INN) / Verona (VRN)"
+      "primary": "Milan Malpensa (MXP)",
+      "alt": "Venice (VCE) or Innsbruck (INN)"
     },
-    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "transport_note": "Milan Malpensa (MXP) is the main international gateway — 2.5–3 hrs by car into the Dolomites valleys. Venice (VCE) suits the eastern Dolomites (2–2.5 hrs); Innsbruck (INN) is closest for the northern valleys. Bolzano has an airport but almost no international routes — avoid routing through it.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Seasonal closure likely — exact dates not published online. Natz/Schabs near Brixen is a year-round South Tyrol destination; brief inter-season closures typical. Confirm directly at muehlwald.it before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (verify membership)",
@@ -957,17 +957,17 @@
       "Montessori-based childcare, 70 hrs/week"
     ],
     "airport": {
-      "primary": "Bolzano (BZO)",
-      "alt": "Innsbruck (INN) / Verona (VRN)"
+      "primary": "Milan Malpensa (MXP)",
+      "alt": "Venice (VCE) or Innsbruck (INN)"
     },
-    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "transport_note": "Milan Malpensa (MXP) is the main international gateway — 2.5–3 hrs by car into the Dolomites valleys. Venice (VCE) suits the eastern Dolomites (2–2.5 hrs); Innsbruck (INN) is closest for the northern valleys. Bolzano has an airport but almost no international routes — avoid routing through it.",
     "kids_club": {
       "ages": "Not yet confirmed",
       "hours": "Not yet confirmed",
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "closure_note": "Open year-round with seasonal programming. Packages visible on site span June 2026 through March 2027, including Family Wellness Days (8–20 Nov 2026), suggesting the resort operates throughout the year. Confirm directly at feuerstein.info before booking.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (verify membership)",
