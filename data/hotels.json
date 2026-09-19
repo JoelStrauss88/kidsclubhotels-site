@@ -136,7 +136,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Open summer from approximately late May to early November (packages dated 28 May – 8 Nov 2026 visible on site); closed November to late December and mid-April to late May. High-altitude location (1,875 m) means shorter open seasons than valley hotels. Confirm exact dates before booking.",
+    "closure_note": "Clearly seasonal. Summer 2026: 28 May–8 November 2026. Winter 2026/27 season: 9 January–~3 April 2027. Closed: approximately 8 November–8 January (autumn/early-winter gap, ~2 months) and April to late May (spring, ~7 weeks). Confirmed from heidi-hotel.at and bergfex.com.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -364,7 +364,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Seasonal closure likely — exact dates not published online. Located in Gerlos alongside Kinderhotel Kröller; inter-season closures (mid-April and November) are typical. Confirm directly at familyresort.at before booking.",
+    "closure_note": "Two confirmed seasons. Summer 2025: 7 June–8 November. Winter 2025/26: 6 December–11 April 2026. Closure windows: approximately 8 November–6 December (autumn, ~4 weeks) and 11 April–early June (spring, ~7–8 weeks). The hotel FAQ specifically asks if it's open year-round, confirming it is not. Confirmed from kinderhotels.com and familyresort.at.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -402,7 +402,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Operates seasonally. Based on historic patterns: open approximately 17 May – 13 Sep (summer), 18 Oct – 8 Nov (autumn), 26 Dec – 11 Apr (winter/spring). Closed mid-April to mid-May and early November to late December. Confirm directly before booking.",
+    "closure_note": "Clearly seasonal. Winter 2025/26 ran 26 December 2025–7 March 2026. Katschberg ski area opens ~4 December; winter season typically starts Boxing Day. Likely closed: March/early April to late May (spring) and mid-October to late December (autumn). Confirmed from kinderhotel.info and smileyhotel.at.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -743,7 +743,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Operates seasonally. Winter season runs approximately 5 December 2025 – 11 April 2026; summer season runs approximately 13 June – 18 October 2026. Closed late April to mid-June and late October to early December. Confirm directly at laderhof.at.",
+    "closure_note": "Two confirmed seasons. Winter 2025/26: 5 December 2025–11 April 2026. Summer bookings confirmed from late June/early July 2026. Implied closures: mid-April to late June (spring, ~10 weeks) and mid-October to early December (autumn, ~7 weeks). Confirmed from laderhof.at and kinderhotels.com.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -781,7 +781,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Seasonal closure likely — exact dates not published online. Saalbach Hinterglemm hotels typically close between ski season and summer (late April to late May) and in November. Confirm directly at ellmauhof.at before booking.",
+    "closure_note": "Active packages confirmed: winter (December 2025–April 2026), summer (27 June–12 September 2026), autumn holidays (24 October–7 November 2026). Likely closed: approximately mid-April to late June (spring, ~10 weeks) and mid-September to late October. No formal closure announcement; may operate with reduced programming. Confirmed from ellmauhof.at.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (pending direct deal)",
@@ -967,7 +967,7 @@
       "staff_languages": "Not yet confirmed",
       "status": "unconfirmed"
     },
-    "closure_note": "Open year-round with seasonal programming. Packages visible on site span June 2026 through March 2027, including Family Wellness Days (8–20 Nov 2026), suggesting the resort operates throughout the year. Confirm directly at feuerstein.info before booking.",
+    "closure_note": "Near year-round operation — packages span December 2026 through September 2026 across all seasons with no explicit closure gap. Likely open year-round or with only a brief inter-season pause. Confirmed from feuerstein.info.",
     "profile_source": "https://www.kinderhotels.com/en/hotels/",
     "booking": {
       "type": "OTA affiliate (verify membership)",
@@ -1008,7 +1008,7 @@
       "staff_languages": "German (English on request)",
       "status": "confirmed"
     },
-    "closure_note": "Open year-round with seasonal programming. Brief inter-season closures may apply — confirm directly at allgaeuer-berghof.de before booking.",
+    "closure_note": "Open year-round — the hotel explicitly markets 'Urlaubsglück das ganze Jahr' (holiday happiness all year round). No closure windows. Confirmed from allgaeuer-berghof.de.",
     "profile_source": "https://www.allgaeuer-berghof.de/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1049,7 +1049,7 @@
       "staff_languages": "German",
       "status": "confirmed"
     },
-    "closure_note": "Open year-round — one of the few Alpine family hotels without seasonal closures. Confirm directly at oberjochresort.de before booking.",
+    "closure_note": "Open year-round — the resort markets '365 days' programming. No seasonal closures. Confirmed from oberjochresort.de.",
     "profile_source": "https://www.oberjochresort.de/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1088,7 +1088,7 @@
       "staff_languages": "German",
       "status": "confirmed"
     },
-    "closure_note": "Seasonal closure likely between winter and summer seasons (typically closed several weeks in spring and autumn). Confirm directly at hotel-bavaria-pfronten.com before booking.",
+    "closure_note": "Note: the previous operator closed the hotel in July 2026 citing fire safety issues; the property owner took over and reopened in August 2026. Seasonal closure windows under new management not yet confirmed — verify directly before booking.",
     "profile_source": "https://www.hotel-bavaria-pfronten.com/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1128,7 +1128,7 @@
       "staff_languages": "German (English available)",
       "status": "confirmed"
     },
-    "closure_note": "Open year-round. The Fundorena indoor sports hall undergoes renovation 2–22 November 2026 with restricted hours. Winter skiing season subject to snow conditions. Confirm directly at feldberger-hof.de.",
+    "closure_note": "Open year-round. One partial closure: the Fundorena indoor sports hall is closed for renovation 2–22 November 2026 (Funpark and high ropes course remain open). No full hotel closure found. Confirmed from feldberger-hof.de.",
     "profile_source": "https://www.feldberger-hof.de/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1168,7 +1168,7 @@
       "staff_languages": "German",
       "status": "confirmed"
     },
-    "closure_note": "Seasonal closure likely between winter and summer seasons. Confirm directly at dasbayrischzell.de before booking.",
+    "closure_note": "No confirmed closure dates — the hotel markets both winter (Sudelfeld skiing) and summer holidays with no evidence of full seasonal closure. Likely open year-round. Confirm directly at dasbayrischzell.de or +49 8023 819 4600.",
     "profile_source": "https://www.dasbayrischzell.de/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1208,7 +1208,7 @@
       "staff_languages": "German, English",
       "status": "confirmed"
     },
-    "closure_note": "Operates winter (December–March) and summer (July–September) seasons. Closed October–November and April–June. Confirm exact dates at waldhotel.ch before booking.",
+    "closure_note": "Two-season operation confirmed from booking-information page: Summer season 2026 runs 19 June–30 November 2026; Winter season 2026/27 runs 1 December 2026–11 April 2027. Closed approximately mid-April to mid-June (spring, ~9 weeks). Confirmed from waldhotel.ch.",
     "profile_source": "https://www.waldhotel.ch/en/",
     "booking": {
       "type": "Direct hotel website",
@@ -1248,7 +1248,7 @@
       "staff_languages": "German, English",
       "status": "confirmed"
     },
-    "closure_note": "Operates winter (December–March) and summer (July–September) seasons. Closed April–June and October–November. Confirm exact dates at tschuggencollection.ch before booking.",
+    "closure_note": "Two-season operation. Summer 2026 confirmed: 26 June–6 September 2026. Winter season opens early December. Closed approximately early September to early December (autumn, ~13 weeks) and late March/April to late June (spring, ~13 weeks). Confirmed from tschuggencollection.ch.",
     "profile_source": "https://tschuggencollection.ch/en/hotel/tschuggen-grand-hotel",
     "booking": {
       "type": "Direct hotel website",
@@ -1287,7 +1287,7 @@
       "staff_languages": "German, French, English",
       "status": "confirmed"
     },
-    "closure_note": "Operates winter ski season (December–April) and summer season (June–October). Closed briefly in May and November between seasons. Confirm exact dates at walliserhof-saasfee.ch before booking.",
+    "closure_note": "Appears to operate year-round — summer/shoulder season confirmed approximately 13 June–31 October; winter from mid-December. Note: the Saas-Fee mountain cable cars are closed 19 April–13 June 2026, limiting ski access during this period. No full hotel closure confirmed. Confirmed from walliserhof-saasfee.ch.",
     "profile_source": "https://www.walliserhof-saasfee.ch/en-us/",
     "booking": {
       "type": "Direct hotel website",
