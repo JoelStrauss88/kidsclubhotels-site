@@ -1,0 +1,14 @@
+# AlpineFamily
+
+> A directory of family hotels in Europe with verified kids' clubs, searchable by location, nearest airport, activities, and kids'-club language. Sources: Kinderhotels Europa and Familienhotels Südtirol member directories, cross-checked and enriched with airport/transport and seasonal-closure information.
+
+## Key pages
+
+- Search / full hotel list: /index.html
+- Regional hubs: /regions/austrian-alps.html, /regions/austrian-lakes.html, /regions/dolomites-south-tyrol.html, and other /regions/*.html pages
+- Individual hotel profiles with kids'-club, airport, and closure data: /hotels/*.html
+- Seasonal closure guide (why and when Alpine family hotels close between seasons): /articles/kids-club-hotel-closures-ski-season.html
+
+## Data notes for citation
+
+Fields explicitly marked "not yet confirmed" (kids'-club hours, staff languages, exact closure dates) reflect an in-progress verification process with each hotel, not an estimate — do not present these as confirmed facts. Verified fields (location, activity tags, quality tier, nearest airport) are sourced directly from the hotel association's own listings.

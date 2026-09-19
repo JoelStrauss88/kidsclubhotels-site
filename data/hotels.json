@@ -1,0 +1,777 @@
+[
+  {
+    "name": "Kinderhotel Kröller",
+    "slug": "kinderhotel-kroller",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Gerlos, Tyrol",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Baby-focused"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Pitzis Kinderhotel",
+    "slug": "pitzis-kinderhotel",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Arzl im Pitztal, Tyrol",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused",
+      "Airport/train transfer"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Family & Sports Resort Brennseehof",
+    "slug": "family-and-sports-resort-brennseehof",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "Feld am See, Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Lake",
+      "Sports"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Heidi-Hotel Falkertsee",
+    "slug": "heidi-hotel-falkertsee",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "Falkert / Bad Kleinkirchheim, Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Pets allowed"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Family Hotel Kreuzwirt",
+    "slug": "family-hotel-kreuzwirt",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "Weissensee, Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Lake",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Ferienwelt Kesselgrub",
+    "slug": "ferienwelt-kesselgrub",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps (Salzburg)",
+    "subregion": "Altenmarkt-Zauchensee, Salzburg",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused",
+      "Barrier-free"
+    ],
+    "airport": {
+      "primary": "Salzburg (SZG)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Garberhof Dolomit Family",
+    "slug": "garberhof-dolomit-family",
+    "brand": "Kinderhotels Europa",
+    "country": "Italy",
+    "area": "Dolomites (South Tyrol)",
+    "subregion": "Rasen-Antholz",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Pets allowed",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Bolzano (BZO)",
+      "alt": "Innsbruck (INN) / Verona (VRN)"
+    },
+    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Imperial Aparthotel",
+    "slug": "imperial-aparthotel",
+    "brand": "Kinderhotels Europa",
+    "country": "Italy",
+    "area": "Adriatic Coast (Italy)",
+    "subregion": "Bibione, Veneto",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Beach",
+      "Aparthotel"
+    ],
+    "airport": {
+      "primary": "Venice (VCE)",
+      "alt": "Trieste (TRS)"
+    },
+    "transport_note": "Direct rail or highway link from Venice; a car is worth having in peak summer for coastal-town congestion.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Familienresort Buchau",
+    "slug": "familienresort-buchau",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Eben am Achensee, Tyrol",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Lake",
+      "Baby-focused"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Almhof Family Resort & SPA",
+    "slug": "almhof-family-resort-and-spa",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Gerlos, Tyrol",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Spa"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Smiley's Kinderhotel",
+    "slug": "smileys-kinderhotel",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "Trebesing / Katschberg, Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Lake",
+      "Airport/train transfer"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Kinderhotel Stegerhof",
+    "slug": "kinderhotel-stegerhof",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps (Styria)",
+    "subregion": "Donnersbachwald, Styria",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Graz (GRZ)",
+      "alt": "Salzburg (SZG)"
+    },
+    "transport_note": "Regional rail to Irdning-Donnersbachtal or similar hub, then short taxi/shuttle. A car is the easier option for this area.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Family Hotel Adriana",
+    "slug": "family-hotel-adriana",
+    "brand": "Kinderhotels Europa",
+    "country": "Italy",
+    "area": "Italian Alps (Trentino)",
+    "subregion": "Ledro, Trentino",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused",
+      "Equipment rental"
+    ],
+    "airport": {
+      "primary": "Verona (VRN)",
+      "alt": "Bergamo (BGY)"
+    },
+    "transport_note": "Rail to Trento or Rovereto, then bus/transfer into the Ledro valley. A car is more flexible given limited bus frequency.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Kinderhotel Felben",
+    "slug": "kinderhotel-felben",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps (Salzburg)",
+    "subregion": "Mittersill, Salzburg",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Salzburg (SZG)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Baby & Kinder Hotel Laurentius",
+    "slug": "baby-and-kinder-hotel-laurentius",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Fiss, Tyrol",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Baby-focused"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Baby + Kinder Hotel Sonnelino",
+    "slug": "baby-and-kinder-hotel-sonnelino",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "St. Kanzian (Lake Klopeiner See), Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Lake",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Familienparadies Sporthotel Achensee",
+    "slug": "familienparadies-sporthotel-achensee",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Achenkirch, Tyrol",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Lake"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Kinderhotel Alpenresidenz Ballunspitze",
+    "slug": "kinderhotel-alpenresidenz-ballunspitze",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Galtür, Tyrol",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused",
+      "Pets allowed"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Adventure Family Hotel Maria & Lodge",
+    "slug": "adventure-family-hotel-maria-and-lodge",
+    "brand": "Kinderhotels Europa",
+    "country": "Italy",
+    "area": "Dolomites (South Tyrol)",
+    "subregion": "Obereggen",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Skiing",
+      "Cycling"
+    ],
+    "airport": {
+      "primary": "Bolzano (BZO)",
+      "alt": "Innsbruck (INN) / Verona (VRN)"
+    },
+    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Kinderhotel Laderhof",
+    "slug": "kinderhotel-laderhof",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Ladis, Tyrol",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Baby-focused"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "ELLMAUHOF - the Generations Resort",
+    "slug": "ellmauhof-the-generations-resort",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps (Salzburg)",
+    "subregion": "Saalbach Hinterglemm, Salzburg",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Multigenerational"
+    ],
+    "airport": {
+      "primary": "Salzburg (SZG)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail to the valley hub, then hotel shuttle/taxi for the final leg. Many Kinderhotels properties offer an airport/train transfer directly (see amenities).",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Leading Family Hotels Löwe and Bär",
+    "slug": "leading-family-hotels-lowe-and-bar",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Alps",
+    "subregion": "Serfaus, Tyrol",
+    "quality_tier": "Premium Plus",
+    "activity_tags": [
+      "Skiing",
+      "Family suites"
+    ],
+    "airport": {
+      "primary": "Innsbruck (INN)",
+      "alt": "Munich (MUC)"
+    },
+    "transport_note": "Regional rail (ÖBB) reaches the main valley towns; most ski villages need a connecting shuttle, taxi or hotel transfer for the final stretch. A rental car gives the most flexibility for ski luggage.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Familienhotel Post am Millstätter See",
+    "slug": "familienhotel-post-am-millstatter-see",
+    "brand": "Kinderhotels Europa",
+    "country": "Austria",
+    "area": "Austrian Lakes",
+    "subregion": "Millstatt am See, Carinthia",
+    "quality_tier": "Premium",
+    "activity_tags": [
+      "Lake"
+    ],
+    "airport": {
+      "primary": "Klagenfurt (KLU)",
+      "alt": "Salzburg (SZG) / Vienna (VIE)"
+    },
+    "transport_note": "Direct regional rail service reaches most lake towns in Carinthia; a car is useful for the more remote lakeside properties, especially outside summer.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (pending direct deal)",
+      "note": ""
+    }
+  },
+  {
+    "name": "Falkensteiner Family Resort Lido",
+    "slug": "falkensteiner-family-resort-lido",
+    "brand": "Familienhotels Südtirol",
+    "country": "Italy",
+    "area": "Dolomites (South Tyrol)",
+    "subregion": "Ehrenburg, Pustertal",
+    "quality_tier": "N/A",
+    "activity_tags": [
+      "Larger resort"
+    ],
+    "airport": {
+      "primary": "Bolzano (BZO)",
+      "alt": "Innsbruck (INN) / Verona (VRN)"
+    },
+    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (verify membership)",
+      "note": "Verify current association membership before outreach"
+    }
+  },
+  {
+    "name": "Das Mühlwald Quality Time Family Resort",
+    "slug": "das-muhlwald-quality-time-family-resort",
+    "brand": "Familienhotels Südtirol",
+    "country": "Italy",
+    "area": "Dolomites (South Tyrol)",
+    "subregion": "Natz, Pustertal",
+    "quality_tier": "N/A",
+    "activity_tags": [
+      "Larger resort"
+    ],
+    "airport": {
+      "primary": "Bolzano (BZO)",
+      "alt": "Innsbruck (INN) / Verona (VRN)"
+    },
+    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (verify membership)",
+      "note": "Verify current association membership before outreach"
+    }
+  },
+  {
+    "name": "Feuerstein Nature Family Resort",
+    "slug": "feuerstein-nature-family-resort",
+    "brand": "Familienhotels Südtirol",
+    "country": "Italy",
+    "area": "Dolomites (South Tyrol)",
+    "subregion": "South Tyrol",
+    "quality_tier": "N/A",
+    "activity_tags": [
+      "Montessori-based childcare, 70 hrs/week"
+    ],
+    "airport": {
+      "primary": "Bolzano (BZO)",
+      "alt": "Innsbruck (INN) / Verona (VRN)"
+    },
+    "transport_note": "High-speed rail to Bolzano/Bressanone, then a regional bus or hotel transfer into the valleys — many Dolomite villages sit off the rail line, so budget 45-90 minutes for the connection.",
+    "kids_club": {
+      "ages": "Not yet confirmed",
+      "hours": "Not yet confirmed",
+      "staff_languages": "Not yet confirmed",
+      "status": "unconfirmed"
+    },
+    "closure_note": "Not yet confirmed with hotel. Many Alpine family hotels close for 1-3 weeks between the winter and summer seasons (typically mid-April and again in November) — always confirm exact dates before booking.",
+    "profile_source": "https://www.kinderhotels.com/en/hotels/",
+    "booking": {
+      "type": "OTA affiliate (verify membership)",
+      "note": "Verify current association membership before outreach"
+    }
+  }
+]
