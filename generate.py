@@ -5,7 +5,7 @@ with open("data/hotels.json") as f:
     HOTELS = json.load(f)
 
 SITE_NAME = "Kids Club Hotels"
-BASE_URL = "https://kidsclubhotels.com"
+BASE_URL = "https://kidsclubstay.com"
 TODAY = date.today().isoformat()
 
 AREAS = sorted(set(h["area"] for h in HOTELS))
@@ -239,7 +239,7 @@ about_html = HEAD(
   <p>Kids-club hours, age ranges, and staff languages are confirmed directly with hotel staff, not scraped from booking platforms or taken from brochure copy. Where a detail has not yet been confirmed with the property, we say so explicitly — fields marked "not yet confirmed" reflect that in-progress state, not a gap in our data. We update listings as confirmations come in and as seasonal operations change.</p>
 
   <h2>Contact</h2>
-  <p>For hotel listings, corrections, or partnerships: <a href="mailto:hello@kidsclubhotels.com">hello@kidsclubhotels.com</a></p>
+  <p>For hotel listings, corrections, or partnerships: <a href="mailto:hello@kidsclubstay.com">hello@kidsclubstay.com</a></p>
 </main>
 {FOOTER()}
 </body></html>"""
@@ -273,7 +273,7 @@ partner_html = HEAD(
   <p>A referral fee of 5–8% on completed bookings that originate from Kids Club Hotels, or a flat monthly listing fee — we're flexible on structure depending on what works for your property. We prefer direct arrangements over routing through an OTA, which keeps the cost lower for both sides and keeps the booking relationship with you.</p>
 
   <h2>Get in touch</h2>
-  <p>Email <a href="mailto:hello@kidsclubhotels.com">hello@kidsclubhotels.com</a> with your hotel name and a brief note about your kids' club. We'll follow up within 2 business days.</p>
+  <p>Email <a href="mailto:hello@kidsclubstay.com">hello@kidsclubstay.com</a> with your hotel name and a brief note about your kids' club. We'll follow up within 2 business days.</p>
 </main>
 {FOOTER()}
 </body></html>"""
