@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kids Club Hotels — Coming Soon</title>
+<meta name="description" content="The most comprehensive search for family hotels with real kids' clubs across Europe. Coming soon.">
+<link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --green-dark: #1E4035;
+    --green:      #2a5545;
+    --green-light:#3d7a60;
+    --cream:      #FAF7F0;
+    --border:     #e0dbd0;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background: var(--cream);
+    color: #1a2820;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 80px 24px 120px;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #2a3f5c 0%, #334f5e 20%, #2a5545 55%, #1E4035 100%);
+  }
+
+  .hero-mountain {
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 100%; height: 45%;
+    opacity: 0.18;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 680px;
+    width: 100%;
+  }
+
+  .badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    color: rgba(255,255,255,0.9);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 6px 16px;
+    border-radius: 20px;
+    margin-bottom: 28px;
+  }
+
+  .logo {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: -0.02em;
+    margin-bottom: 32px;
+    display: block;
+  }
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    font-weight: 800;
+    color: #fff;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    margin-bottom: 20px;
+  }
+
+  h1 span {
+    color: #8ecfb0;
+  }
+
+  .sub {
+    color: rgba(255,255,255,0.72);
+    font-size: 1.1rem;
+    line-height: 1.65;
+    margin-bottom: 48px;
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* ── EMAIL FORM ── */
+  .notify-form {
+    display: flex;
+    gap: 8px;
+    max-width: 440px;
+    margin: 0 auto 48px;
+    flex-wrap: wrap;
+  }
+
+  .notify-form input[type="email"] {
+    flex: 1;
+    min-width: 200px;
+    padding: 13px 18px;
+    border-radius: 40px;
+    border: none;
+    font-family: inherit;
+    font-size: 0.95rem;
+    outline: none;
+    color: #1a2820;
+  }
+
+  .notify-form button {
+    background: #fff;
+    color: var(--green-dark);
+    border: none;
+    border-radius: 40px;
+    padding: 13px 24px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .notify-form button:hover {
+    background: #8ecfb0;
+  }
+
+  .notify-note {
+    color: rgba(255,255,255,0.5);
+    font-size: 0.8rem;
+    margin-top: -36px;
+    margin-bottom: 48px;
+  }
+
+  /* ── FEATURES ── */
+  .features {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+  }
+
+  .feature {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.14);
+    border-radius: 12px;
+    padding: 14px 20px;
+    color: rgba(255,255,255,0.85);
+    font-size: 0.88rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .feature-icon {
+    font-size: 1.1rem;
+  }
+
+  /* ── CONTACT ── */
+  .contact-line {
+    color: rgba(255,255,255,0.5);
+    font-size: 0.85rem;
+  }
+
+  .contact-line a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    transition: color 0.15s;
+  }
+
+  .contact-line a:hover { color: #fff; }
+
+  /* ── FOOTER ── */
+  .footer {
+    position: absolute;
+    bottom: 24px;
+    left: 0; right: 0;
+    text-align: center;
+    color: rgba(255,255,255,0.3);
+    font-size: 0.78rem;
+    z-index: 2;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 600px) {
+    .notify-form { flex-direction: column; }
+    .notify-form input, .notify-form button { width: 100%; border-radius: 12px; }
+    .features { flex-direction: column; align-items: center; }
+    .feature { width: 100%; max-width: 300px; justify-content: center; }
+  }
+
+  /* ── SUCCESS STATE ── */
+  .success-msg {
+    display: none;
+    background: rgba(142, 207, 176, 0.2);
+    border: 1px solid rgba(142, 207, 176, 0.4);
+    color: #8ecfb0;
+    border-radius: 12px;
+    padding: 14px 20px;
+    font-size: 0.9rem;
+    margin-bottom: 48px;
+    max-width: 440px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+</head>
+<body>
+
+<section class="hero">
+
+  <svg class="hero-mountain" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path fill="#ffffff" d="M0,320 L0,220 L80,180 L140,210 L200,130 L280,160 L360,80 L440,120 L520,60 L600,100 L660,40 L720,90 L780,30 L840,80 L920,50 L980,110 L1060,70 L1140,130 L1200,90 L1280,150 L1360,110 L1440,170 L1440,320 Z"/>
+    <path fill="#ffffff" opacity="0.4" d="M0,320 L0,260 L120,240 L200,260 L320,200 L420,230 L540,180 L620,210 L720,160 L820,200 L920,170 L1020,210 L1120,185 L1220,220 L1320,195 L1440,225 L1440,320 Z"/>
+  </svg>
+
+  <div class="hero-content">
+
+    <span class="logo">Kids Club Hotels</span>
+    <div class="badge">Coming Soon</div>
+
+    <h1>The search for family hotels with <span>real kids' clubs</span> is almost here</h1>
+
+    <p class="sub">We're building the most comprehensive directory of family hotels across Europe — searchable by location, airport, budget, kids' club age range, languages spoken, and activities. No more blogs with five recommendations. Actual search.</p>
+
+    <form class="notify-form" id="notify-form" onsubmit="handleSubmit(event)">
+      <input type="email" placeholder="Your email address" required autocomplete="email">
+      <button type="submit">Notify me</button>
+    </form>
+    <p class="notify-note">No spam. One email when we launch.</p>
+
+    <div class="success-msg" id="success-msg">
+      &#10003;&nbsp; You're on the list — we'll let you know when we launch.
+    </div>
+
+    <div class="features">
+      <div class="feature"><span class="feature-icon">&#128269;</span> Search 66+ verified hotels</div>
+      <div class="feature"><span class="feature-icon">&#9992;</span> Filter by nearest airport</div>
+      <div class="feature"><span class="feature-icon">&#128100;</span> Kids' club ages &amp; languages</div>
+      <div class="feature"><span class="feature-icon">&#128197;</span> Seasonal closure tracker</div>
+    </div>
+
+    <p class="contact-line">Hotel or partnership enquiry? <a href="mailto:hello@kidsclubstay.com">hello@kidsclubstay.com</a></p>
+
+  </div>
+
+  <div class="footer">&copy; 2026 Kids Club Hotels &mdash; kidsclubstay.com</div>
+
+</section>
+
+<script>
+function handleSubmit(e) {
+  e.preventDefault();
+  // Replace this with your email service (Mailchimp, ConvertKit, etc.)
+  // For now, shows success state and could POST to a form endpoint
+  const form = document.getElementById('notify-form');
+  const msg = document.getElementById('success-msg');
+  const email = form.querySelector('input[type="email"]').value;
+
+  // Simple mailto fallback — replace with real form handler
+  // e.g. fetch('https://your-form-endpoint.com', { method: 'POST', body: ... })
+  form.style.display = 'none';
+  document.querySelector('.notify-note').style.display = 'none';
+  msg.style.display = 'block';
+}
+</script>
+
+</body>
+</html>

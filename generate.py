@@ -175,8 +175,11 @@ for h in HOTELS:
 
   <section>
     <h2>Book</h2>
-    <p><a class="cta" href="{h['profile_source']}" rel="nofollow sponsored">View live rates &amp; book &rarr;</a></p>
-    <p class="note">Booking route: {h['booking']['type']}.</p>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:12px">
+      <a class="cta" href="{h['profile_source']}" rel="nofollow sponsored">View on hotel website &rarr;</a>
+      {('<a class="cta" style="background:#003580" href="' + h['booking_com_url'] + '" rel="nofollow sponsored">Check on Booking.com &rarr;</a>') if h.get('booking_com_url') else ''}
+    </div>
+    <p class="note">Booking.com link includes our affiliate tag — this supports the directory at no cost to you. We recommend checking the hotel&rsquo;s own website too, as direct rates are sometimes lower.</p>
   </section>
 </main>
 {FOOTER(prefix)}

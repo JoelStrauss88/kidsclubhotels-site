@@ -35,7 +35,8 @@
     "budget_est": "€180–260",
     "review_score": 8.7,
     "review_count": 214,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Kinderhotel+Kröller+Gerlos&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Pitzis Kinderhotel",
@@ -73,7 +74,8 @@
     "budget_est": "€160–240",
     "review_score": 9.1,
     "review_count": 178,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Pitzis+Kinderhotel+Arzl+im+Pitztal&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Family & Sports Resort Brennseehof",
@@ -111,7 +113,8 @@
     "budget_est": "€170–250",
     "review_score": 8.9,
     "review_count": 301,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Family+and+Sports+Resort+Brennseehof+Feld+am+See&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Heidi-Hotel Falkertsee",
@@ -149,7 +152,8 @@
     "budget_est": "€150–220",
     "review_score": 8.5,
     "review_count": 189,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Heidi-Hotel+Falkertsee+Falkert+/+Bad+Kleinkirchheim&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Family Hotel Kreuzwirt",
@@ -187,7 +191,8 @@
     "budget_est": "€110–170",
     "review_score": 8.8,
     "review_count": 142,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Family+Hotel+Kreuzwirt+Weissensee&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Ferienwelt Kesselgrub",
@@ -225,7 +230,8 @@
     "budget_est": "€190–270",
     "review_score": 9.3,
     "review_count": 267,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Ferienwelt+Kesselgrub+Altenmarkt-Zauchensee&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Garberhof Dolomit Family",
@@ -263,7 +269,8 @@
     "budget_est": "€280–400",
     "review_score": 9.4,
     "review_count": 198,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Garberhof+Dolomit+Family+Rasen-Antholz&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Imperial Aparthotel",
@@ -301,7 +308,8 @@
     "budget_est": "€90–140",
     "review_score": 8.2,
     "review_count": 312,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Imperial+Aparthotel+Bibione&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familienresort Buchau",
@@ -339,7 +347,8 @@
     "budget_est": "€310–450",
     "review_score": 9.5,
     "review_count": 423,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Familienresort+Buchau+Eben+am+Achensee&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Almhof Family Resort & SPA",
@@ -377,7 +386,8 @@
     "budget_est": "€320–480",
     "review_score": 9.6,
     "review_count": 387,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/almhof-family-resort-spa-gerlos.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Smiley's Kinderhotel",
@@ -415,7 +425,8 @@
     "budget_est": "€175–255",
     "review_score": 9.0,
     "review_count": 221,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Smileys+Kinderhotel+Trebesing+/+Katschberg&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Kinderhotel Stegerhof",
@@ -453,7 +464,8 @@
     "budget_est": "€160–230",
     "review_score": 8.6,
     "review_count": 167,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Kinderhotel+Stegerhof+Donnersbachwald&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Family Hotel Adriana",
@@ -491,7 +503,8 @@
     "budget_est": "€120–185",
     "review_score": 8.9,
     "review_count": 244,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Family+Hotel+Adriana+Ledro&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Kinderhotel Felben",
@@ -529,7 +542,8 @@
     "budget_est": "€170–245",
     "review_score": 8.7,
     "review_count": 196,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Kinderhotel+Felben+Mittersill&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Baby & Kinder Hotel Laurentius",
@@ -567,7 +581,8 @@
     "budget_est": "€290–420",
     "review_score": 9.4,
     "review_count": 311,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Baby+and+Kinder+Hotel+Laurentius+Fiss&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Baby + Kinder Hotel Sonnelino",
@@ -605,7 +620,8 @@
     "budget_est": "€100–155",
     "review_score": 8.3,
     "review_count": 158,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Baby+++Kinder+Hotel+Sonnelino+St.+Kanzian+(Lake+Klopeiner+See)&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familienparadies Sporthotel Achensee",
@@ -643,7 +659,8 @@
     "budget_est": "€195–280",
     "review_score": 9.1,
     "review_count": 289,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Familienparadies+Sporthotel+Achensee+Achenkirch&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Kinderhotel Alpenresidenz Ballunspitze",
@@ -681,7 +698,8 @@
     "budget_est": "€180–260",
     "review_score": 8.8,
     "review_count": 173,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Kinderhotel+Alpenresidenz+Ballunspitze+Galtür&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Adventure Family Hotel Maria & Lodge",
@@ -719,7 +737,8 @@
     "budget_est": "€165–240",
     "review_score": 9.0,
     "review_count": 203,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Adventure+Family+Hotel+Maria+and+Lodge+Obereggen&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Kinderhotel Laderhof",
@@ -756,7 +775,8 @@
     "budget_est": "€155–220",
     "review_score": 8.5,
     "review_count": 134,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/hotel/at/kinderhotel-laderhof.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "ELLMAUHOF - the Generations Resort",
@@ -794,7 +814,8 @@
     "budget_est": "€295–430",
     "review_score": 9.3,
     "review_count": 356,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/ellmauhof-the-generations-resort.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Leading Family Hotels Löwe and Bär",
@@ -832,7 +853,8 @@
     "budget_est": "€340–500",
     "review_score": 9.5,
     "review_count": 412,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/lowe-und-bar-serfaus.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familienhotel Post am Millstätter See",
@@ -869,7 +891,8 @@
     "budget_est": "€115–170",
     "review_score": 8.6,
     "review_count": 188,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Familienhotel+Post+am+Millstätter+See+Millstatt+am+See&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Falkensteiner Family Resort Lido",
@@ -906,7 +929,8 @@
     "budget_est": "€260–380",
     "review_score": 9.2,
     "review_count": 445,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/it/falkensteiner-family-resort-lido.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Das Mühlwald Quality Time Family Resort",
@@ -943,7 +967,8 @@
     "budget_est": "€275–395",
     "review_score": 9.3,
     "review_count": 378,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Das+Mühlwald+Quality+Time+Family+Resort+Natz&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Feuerstein Nature Family Resort",
@@ -980,7 +1005,8 @@
     "budget_est": "€300–440",
     "review_score": 9.4,
     "review_count": 291,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/it/feuerstein-nature-family-resort.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familotel Allgäuer Berghof",
@@ -1020,7 +1046,8 @@
     "budget_est": "€250–370",
     "review_score": 9.2,
     "review_count": 2589,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/de/familotel-allgaeuer-berghof.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familux Resort Oberjoch",
@@ -1061,7 +1088,8 @@
     "budget_est": "€290–450",
     "review_score": 9.4,
     "review_count": 1426,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/de/familux-resort.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Familotel Bavaria",
@@ -1100,7 +1128,8 @@
     "budget_est": "€200–320",
     "review_score": 8.5,
     "review_count": 113,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Familotel+Bavaria+Pfronten&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Feldberger Hof",
@@ -1140,7 +1169,8 @@
     "budget_est": "€260–400",
     "review_score": 8.8,
     "review_count": 820,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/hotel/de/feldberger-hof.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Das Bayrischzell Familotel",
@@ -1180,7 +1210,8 @@
     "budget_est": "€310–480",
     "review_score": 8.6,
     "review_count": 340,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/hotel/de/das-bayrischzell.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Waldhotel Arosa",
@@ -1220,7 +1251,8 @@
     "budget_est": "€300–580",
     "review_score": 9.0,
     "review_count": 670,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/ch/waldhotel-arosa.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Tschuggen Grand Hotel",
@@ -1260,7 +1292,8 @@
     "budget_est": "€550–1200",
     "review_score": 9.3,
     "review_count": 890,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/ch/tschuggen-grand-hotel.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Walliserhof Grand-Hotel & Spa",
@@ -1299,7 +1332,8 @@
     "budget_est": "€400–800",
     "review_score": 9.1,
     "review_count": 520,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/ch/walliserhof-grand-hotel-spa-saas-fee.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs De Huttenheugte",
@@ -1338,7 +1372,8 @@
     "budget_est": "€140-220",
     "review_score": 8.3,
     "review_count": 300,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+De+Huttenheugte+Dalen&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Parc Sandur",
@@ -1377,7 +1412,8 @@
     "budget_est": "€140-220",
     "review_score": 8.4,
     "review_count": 347,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Parc+Sandur+Emmen&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs De Eemhof",
@@ -1416,7 +1452,8 @@
     "budget_est": "€140-220",
     "review_score": 8.5,
     "review_count": 394,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+De+Eemhof+Zeewolde&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs De Kempervennen",
@@ -1455,7 +1492,8 @@
     "budget_est": "€140-220",
     "review_score": 8.6,
     "review_count": 441,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+De+Kempervennen+Westerhoven&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Het Meerdal",
@@ -1494,7 +1532,8 @@
     "budget_est": "€140-220",
     "review_score": 8.7,
     "review_count": 488,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Het+Meerdal+America&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Het Heijderbos",
@@ -1533,7 +1572,8 @@
     "budget_est": "€140-220",
     "review_score": 8.8,
     "review_count": 535,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Het+Heijderbos+Heijen&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Limburgse Peel",
@@ -1572,7 +1612,8 @@
     "budget_est": "€140-220",
     "review_score": 8.9,
     "review_count": 582,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Limburgse+Peel+America&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Port Zélande",
@@ -1611,7 +1652,8 @@
     "budget_est": "€140-220",
     "review_score": 8.3,
     "review_count": 629,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Port+Zélande+Ouddorp&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park Eifel",
@@ -1650,7 +1692,8 @@
     "budget_est": "€140-220",
     "review_score": 8.4,
     "review_count": 676,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+Eifel+Gunderath&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park Nordseeküste",
@@ -1689,7 +1732,8 @@
     "budget_est": "€140-220",
     "review_score": 8.5,
     "review_count": 723,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+Nordseeküste+Tossens&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park Hochsauerland",
@@ -1728,7 +1772,8 @@
     "budget_est": "€140-220",
     "review_score": 8.6,
     "review_count": 770,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+Hochsauerland+Medebach&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Bispinger Heide",
@@ -1767,7 +1812,8 @@
     "budget_est": "€140-220",
     "review_score": 8.7,
     "review_count": 317,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Bispinger+Heide+Bispingen&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park Bostalsee",
@@ -1806,7 +1852,8 @@
     "budget_est": "€140-220",
     "review_score": 8.8,
     "review_count": 364,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+Bostalsee+Nohfelden&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park Allgäu",
@@ -1845,7 +1892,8 @@
     "budget_est": "€140-220",
     "review_score": 8.9,
     "review_count": 411,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+Allgäu+Leutkirch&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Les Bois-Francs",
@@ -1884,7 +1932,8 @@
     "budget_est": "€140-220",
     "review_score": 8.3,
     "review_count": 458,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Les+Bois-Francs+Verneuil-sur-Avre&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Les Hauts de Bruyères",
@@ -1923,7 +1972,8 @@
     "budget_est": "€140-220",
     "review_score": 8.4,
     "review_count": 505,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Les+Hauts+de+Bruyères+Chaumont-sur-Tharonne&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Le Lac d'Ailette",
@@ -1962,7 +2012,8 @@
     "budget_est": "€140-220",
     "review_score": 8.5,
     "review_count": 552,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Le+Lac+dAilette+Chamouille&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Les Trois Forêts",
@@ -2001,7 +2052,8 @@
     "budget_est": "€140-220",
     "review_score": 8.6,
     "review_count": 599,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Les+Trois+Forêts+Hattigny&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Le Bois aux Daims",
@@ -2040,7 +2092,8 @@
     "budget_est": "€140-220",
     "review_score": 8.7,
     "review_count": 646,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Le+Bois+aux+Daims+Les+Trois-Moutiers&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Villages Nature Paris",
@@ -2080,7 +2133,8 @@
     "budget_est": "€140-220",
     "review_score": 8.8,
     "review_count": 693,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Villages+Nature+Paris+Marne-la-Vallée&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Les Landes de Gascogne",
@@ -2119,7 +2173,8 @@
     "budget_est": "€140-220",
     "review_score": 8.9,
     "review_count": 740,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Les+Landes+de+Gascogne+Beauziac&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Erperheide",
@@ -2158,7 +2213,8 @@
     "budget_est": "€140-220",
     "review_score": 8.3,
     "review_count": 787,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Erperheide+Peer&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs De Vossemeren",
@@ -2197,7 +2253,8 @@
     "budget_est": "€140-220",
     "review_score": 8.4,
     "review_count": 334,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+De+Vossemeren+Lommel&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Park De Haan",
@@ -2236,7 +2293,8 @@
     "budget_est": "€140-220",
     "review_score": 8.5,
     "review_count": 381,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Park+De+Haan+De+Haan&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Les Ardennes",
@@ -2275,7 +2333,8 @@
     "budget_est": "€140-220",
     "review_score": 8.6,
     "review_count": 428,
-    "review_label": "Very Good"
+    "review_label": "Very Good",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Les+Ardennes+Vielsalm&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Terhills Resort",
@@ -2314,7 +2373,8 @@
     "budget_est": "€140-220",
     "review_score": 8.7,
     "review_count": 475,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Terhills+Resort+Dilsen-Stokkem&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Center Parcs Nordborg Resort",
@@ -2353,7 +2413,8 @@
     "budget_est": "€140-220",
     "review_score": 8.8,
     "review_count": 522,
-    "review_label": "Excellent"
+    "review_label": "Excellent",
+    "booking_com_url": "https://www.booking.com/searchresults.html?ss=Center+Parcs+Nordborg+Resort+Nordborg&lang=en&aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Alpenhotel Kindl",
@@ -2394,7 +2455,8 @@
     "budget_est": "€300–500",
     "review_score": 9.5,
     "review_count": 226,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/alpenhotel-kindl.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Lisi Family Hotel",
@@ -2435,7 +2497,8 @@
     "budget_est": "€250–450",
     "review_score": 9.0,
     "review_count": 180,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/lisi-family-hotel.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Schlosshotel Fiss",
@@ -2476,7 +2539,8 @@
     "budget_est": "€1,000–1,900",
     "review_score": 9.5,
     "review_count": 49,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/schlosshotel-fiss.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Interalpen-Hotel Tyrol",
@@ -2518,7 +2582,8 @@
     "budget_est": "€850–1,000",
     "review_score": 9.8,
     "review_count": 281,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/interalpen-hotel-tyrol.en.html?aid=YOUR_BOOKING_AID"
   },
   {
     "name": "Galtenberg Family & Wellness Resort",
@@ -2559,6 +2624,7 @@
     "budget_est": "€600+",
     "review_score": 9.3,
     "review_count": 120,
-    "review_label": "Exceptional"
+    "review_label": "Exceptional",
+    "booking_com_url": "https://www.booking.com/hotel/at/galtenberg-family-wellness-resort.en.html?aid=YOUR_BOOKING_AID"
   }
 ]
